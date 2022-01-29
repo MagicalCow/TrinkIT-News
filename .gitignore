@@ -1,0 +1,37 @@
+#Ignore OS specific files created by Windows
+Thumbs.db
+desktop.ini
+#Ignore temporary MS Office files
+~$*.xls*
+~$*.doc*
+#Ignore files built by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+obj/
+_ReSharper*/
+[Tt]est[Rr]esult*
+.vs/
+#Nuget packages folder
+packages/
+# Separatly updated Wiki
+/Documentation/Wiki
+# CodeBlocks Project Temp Folders
+Builds\Debug\
+Builds\Release\
