@@ -4,6 +4,7 @@ desktop.ini
 #Ignore temporary MS Office files
 ~$*.xls*
 ~$*.doc*
+*.ods
 #Ignore files built by Visual Studio
 *.obj
 *.exe
