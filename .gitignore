@@ -34,6 +34,8 @@ _ReSharper*/
 packages/
 # Separatly updated Wiki
 /Documentation/Wiki
+# Repo Archive
+/Archive
 # CodeBlocks Project Temp Folders
 Builds\Debug\
 Builds\Release\
