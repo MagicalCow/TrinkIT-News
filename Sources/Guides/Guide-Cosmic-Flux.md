@@ -1,0 +1,48 @@
+# Новая валюта "Космический Плавень"
+
+На PTR завезли новую валюту для улучшения лег - [Космический плавень](https://ptr.wowhead.com/currency=2009), в этом посте мы разберемся где её получить и как выгоднее потратить.
+
+*Как обычно - это PTR, все новости о нем могут меняться в зависимости от новых прихотей разработчиков, поэтому оставайтесь с нами в [@trink_it_now](https://t.me/trink_it_now).*
+
+## Откуда его брать
+Плавень будет (с некоторой вероятностью) падать со всех активностей на капе и разумеется в основном в Зерет Мортисе  
+### Сколько мы будем получать с Зерет Мортиса
+Подавляющее большинство активностей в Зерет Мортисе будут дропать [Космический плавень](https://ptr.wowhead.com/currency=2009), так что очевидно что выгоднее всего начинать фарм именно там.  
+- Сундуки: 12 [![Космический плавень](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ptr.wowhead.com/currency=2009)
+- Рарники: 50 to 75 [![Космический плавень](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ptr.wowhead.com/currency=2009), depending on rare mob health
+- Дейлики: 75 [![Космический плавень](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ptr.wowhead.com/currency=2009)
+- Дейли сундуки ([Sandworn Chest](https://ptr.wowhead.com/object=375404), [Locked Provis Cache](https://ptr.wowhead.com/object=373568)): 75 [![Космический плавень](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ptr.wowhead.com/currency=2009)
+- Викли квест [Patterns Within Patterns](https://ptr.wowhead.com/quest=65324): 150 [![Космический плавень](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ptr.wowhead.com/currency=2009)  
+*Квест на PTR пока что появляется два раза в неделю.*
+- Одноразовый дроп с ачивки [Treasures of Zereth Mortis](https://ptr.wowhead.com/achievement=15331): 200 [![Космический плавень](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ptr.wowhead.com/currency=2009)
+
+
+### Торгаст
+[Космический плавень](https://ptr.wowhead.com/currency=2009) будет падать с 13 по 16й слой.
+- Слой 13 - 30 [![Пепел душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_soulash.gif)](https://ru.wowhead.com/currency=1828), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906), 70 [![Космический плавень](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ptr.wowhead.com/currency=2009)
+- Слой 14 - 30 [![Пепел душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_soulash.gif)](https://ru.wowhead.com/currency=1828), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906), 10 [![Космический плавень](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ptr.wowhead.com/currency=2009)
+- Слой 15 - 30 [![Пепел душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_soulash.gif)](https://ru.wowhead.com/currency=1828), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906), 10 [![Космический плавень](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ptr.wowhead.com/currency=2009)
+- Слой 16 - 30 [![Пепел душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_soulash.gif)](https://ru.wowhead.com/currency=1828), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906), 10 [![Космический плавень](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ptr.wowhead.com/currency=2009)
+
+*Разумеется если вы закроете 16й слой то вы получите весь лут и с низлежащих слоев, в итоге: 1150 [![Пепел душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_soulash.gif)](https://ru.wowhead.com/currency=1828), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906), 470 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906) and 100 [![Космический плавень](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ptr.wowhead.com/currency=2009).*
+
+### Другие источники
+Плавень так же падает с:
+- Мифики: 100 [![Космический плавень](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ptr.wowhead.com/currency=2009) за любой ключ.
+- Ранкинговая арена: 345 [![Космический плавень](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ptr.wowhead.com/currency=2009) за победу.
+- Гробница Предвечных пока не дропает но с другой сторона рейд пока на тестировании.
+
+## Цены апгрейдов лег
+Седьмой ранг дополнительно потребует плавень для апгрейда но угли и пепел не требуются на 6м и 7м ранге.
+
+Ниже приводятся расценки на каждый ранг С УЧЕТОМ ВАЛЮТЫ НА ПРЕДЫДУЩИЕ РАНГИ.
+
+- Ранг 1 (илвл 190) - 1,250 [![Пепел душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_soulash.gif)](https://ru.wowhead.com/currency=1828), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906)
+- Ранг 2 (илвл 210) - 2,000 [![Пепел душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_soulash.gif)](https://ru.wowhead.com/currency=1828), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906)
+- Ранг 3 (илвл 225) - 3,200 [![Пепел душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_soulash.gif)](https://ru.wowhead.com/currency=1828), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906)
+- Ранг 4 (илвл 235) - 5,150 [![Пепел душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_soulash.gif)](https://ru.wowhead.com/currency=1828), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906)
+- Ранг 5 (илвл 245) - 5,150 [![Пепел душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_soulash.gif)](https://ru.wowhead.com/currency=1828), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906), 500 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906)
+- Ранг 6 (илвл 262) - 5,150 [![Пепел душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_soulash.gif)](https://ru.wowhead.com/currency=1828), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906), 1,650 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906)
+- Ранг 7 (илвл 291) - 5,150 [![Пепел душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_soulash.gif)](https://ru.wowhead.com/currency=1828), 30 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906), 1,650 [![Угли душ](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_supersoulash.gif)](https://ru.wowhead.com/currency=1906), 2,000 [![Космический плавень](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ptr.wowhead.com/currency=2009)
+
+*Дополнительно планируется крафт кусков классового сета из плавня но информации пока об этом аспекте нет*
