@@ -4,13 +4,16 @@
 
 ### А зачем мне вообще рарники и сундуки в Зерет Мортис?
 
-- Рарники в первую очередь это (не только ценный мех) хороший источник [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_trinket_progenitorraid_02_blue.gif) Шифров Предвечных](https://ru.wowhead.com/currency=1979) и [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif) Космического плавня](https://ptr.wowhead.com/currency=2009) - Эти валюты используются для прокачки талантов системы [Шифра Предвечных](https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Guides/Guide-Cypher-of-the-First-Ones-System.md) и [Катализатора Творения]!!!/[Крафта лег]!!!.
-  - Ну и разумеется - каждый убитый рарник это 10-15 репы с [Просвещенными](https://ru.wowhead.com/faction=2478)
-- Сундуки это постоянный источник [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif) Космического плавня](https://ru.wowhead.com/currency=2009), а также одноразовые сундуки дают по 200 [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif)](https://ru.wowhead.com/currency=2009)
-- Рарники в Зерет Мортис могут помочь с первоначальным одеванием, с каждого рарника есть шанс дропа 242го гира.
-- Любители попылесосить ачивки могут получить следующие достижение:
-  - 10 рарников ([Приключения в Зерет Мортисе](https://ru.wowhead.com/achievement=15512/adventures-in-zereth-mortis)) и 5 сундуков ([Коллекция диковинок](https://ru.wowhead.com/achievement=15513/curious-collections)) закроет часть ачивки [Открывая секреты](https://ru.wowhead.com/achievement=15514), наградой за которую будут полеты в зоне.
-  - Убив всех рарников ([Искатель приключений Зерет Мортиса](https://ru.wowhead.com/achievement=15391)) и собрав все сундуки ([Сокровища Зерет Мортиса](https://ru.wowhead.com/achievement=15331)) вы закроете часть метаачивки [Весь Зерет](https://ru.wowhead.com/achievement=15336), которая даст вам маунт [Таинственный аурелид](https://ru.wowhead.com/spell=359381/cryptic-aurelid).  
+<ul>
+	<li>Рарники в первую очередь это (не только ценный мех) хороший источник <a href="https://ru.wowhead.com/currency=1979"><img src=https://wow.zamimg.com/images/wow/icons/tiny/inv_trinket_progenitorraid_02_blue.gif width="12" height="12" float=down> Шифров Предвечных</a> и <a href="https://ptr.wowhead.com/currency=2009"><img src=https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif width="12" height="12" float=down> Космического ветра</a> - Эти валюты используются для прокачки талантов системы <a href="#zmcyphers">Шифра Предвечных</a> и <a href="#zmcatalyst">Катализатора Творения</a>/<a href="#zmlegendaries">Крафта лег</a>. Ну и разумеется - каждый убитый рарник это 10-15 репы с <a href="https://ru.wowhead.com/faction=2478">Просвещенными</>
+	<li>Сундуки это постоянный источник <a href="https://ptr.wowhead.com/currency=2009"><img src=https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif width="12" height="12" float=down> Космического ветра</a>, а также одноразовые сундуки дают по 200 <a href="https://ptr.wowhead.com/currency=2009"><img src=https://wow.zamimg.com/images/wow/icons/tiny/inv_currency_cosmicflux.gif width="12" height="12" float=down></a>
+	<li>Рарники в Зерет Мортис могут помочь с первоначальным одеванием, с каждого рарника есть шанс дропа 242го гира.
+	<li> Любители попылесосить ачивки могут получить следующие достижения:
+		<ul>
+			<li>10 рарников (<a href="https://ru.wowhead.com/achievement=15512/adventures-in-zereth-mortis">Приключения в Зерет Мортисе</a>) и 5 сундуков (<a href="https://ru.wowhead.com/achievement=15513">Коллекция диковинок</a>) закроет часть ачивки <a href="https://ru.wowhead.com/achievement=15514">Открывая секреты</a>, наградой за которую будут полеты в зоне.
+			<li>Убив всех рарников (<a href="https://ru.wowhead.com/achievement=15391">Искатель приключений Зерет Мортиса</a>) и собрав все сундуки (<a href="https://ru.wowhead.com/achievement=15331">Сокровища Зерет Мортиса</a>) вы закроете часть метаачивки <a href="https://ru.wowhead.com/achievement=15336">Весь Зерет</a>, которая даст вам маунт <a href="https://ru.wowhead.com/spell=359381/cryptic-aurelid">Таинственный аурелид</a>.
+		</ul>
+</ul>
 	<img src=https://wow.zamimg.com/modelviewer/ptr/webthumbs/npc/78/98894.png width="300" float=center border=2>
 
 ### Локации рарников в Зерет Мортис
