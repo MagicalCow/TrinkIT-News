@@ -1,4 +1,4 @@
-# День Вылупления Гиппогрифов
+# Гайд: День Вылупления Гиппогрифов
 
 <center>
 <img src=https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guide-Hatching-of-the-Hippogryphs/Guide-Hatching-of-the-Hippogryphs-07.png float=center border=2>
@@ -41,5 +41,5 @@
 </center>
 
 
-[Источник](https://www.wowhead.com/news/7-1-5-ptr-hatching-of-the-hippogryphs-micro-holiday-258285), арт от [Sleepingfox](https://www.deviantart.com/sleepingfox/art/Moonkin-and-Hippogryph-321230639)
+[Источник](https://www.wowhead.com/news/7-1-5-ptr-hatching-of-the-hippogryphs-micro-holiday-258285), арт от [Sleepingfox](https://www.deviantart.com/sleepingfox/art/Moonkin-and-Hippogryph-321230639)  
 #news #events #HatchingoftheHippogryphs
