@@ -35,7 +35,8 @@ packages/
 # Separatly updated Wiki
 /Documentation/Wiki
 # Repo Archive
-/Archive
+Sources/Archive
+Sources/Untranslated
 # CodeBlocks Project Temp Folders
 Builds\Debug\
 Builds\Release\
