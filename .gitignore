@@ -1,6 +1,7 @@
 #Ignore OS specific files created by Windows
 Thumbs.db
 desktop.ini
+*.xcf
 #Ignore temporary MS Office files
 ~$*.xls*
 ~$*.doc*
