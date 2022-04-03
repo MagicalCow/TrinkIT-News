@@ -2,6 +2,8 @@
 Thumbs.db
 desktop.ini
 *.xcf
+#Ignore Video
+*.mp4
 #Ignore temporary MS Office files
 ~$*.xls*
 ~$*.doc*
