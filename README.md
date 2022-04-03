@@ -3,7 +3,7 @@
 
 **World of Warcraft memes & news**  
 *[Blessed Channel of the Memeseeker]*  
-[чат](https://t.me/trink_it) | [Группа VK](https://vk.com/trink_it) | [Инстаграм](http://www.instagram.com/trinkuy)
+[чат](https://t.me/krazzworks) | [Группа VK](https://vk.com/trink_it) | [Инстаграм](http://www.instagram.com/trinkuy)
 
 ## Авторы
 
