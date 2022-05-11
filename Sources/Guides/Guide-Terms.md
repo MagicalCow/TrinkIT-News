@@ -11,6 +11,6 @@
 Зал Славы является своего рода показателем как быстро фракции делают рейдовый прогресс в игре, что определяет в конечном итоге пристрастия рейдеров к расе и показывает потенциал фракции и конкретных ее серверов и гильдий.
 
 ---
-#гайд #терминология
-[Арт](https://www.artstation.com/artwork/Z51mnX) от [Elena - Art](https://www.artstation.com/elenaa)
+#гайд #терминология  
+[Арт](https://www.artstation.com/artwork/Z51mnX) от [Elena - Art](https://www.artstation.com/elenaa)  
 [Источник](https://www.wowhead.com/news/Terms.md)
