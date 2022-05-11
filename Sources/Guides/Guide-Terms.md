@@ -13,4 +13,4 @@
 ---
 #гайд #терминология  
 [Арт](https://www.artstation.com/artwork/Z51mnX) от [Elena - Art](https://www.artstation.com/elenaa)  
-[Источник](https://www.wowhead.com/news/Terms.md)
+[TrinkIt!](https://t.me/trink_it_now)
