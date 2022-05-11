@@ -1,19 +1,38 @@
-On the latest Eternity's End 9.2 PTR build, the Creation Catalyst interface has been made available for testing, and we have a preliminary look on how to convert items into tier pieces! 
+# Катализатор Творения и как в нем творить
 
-It is worth noticing that actually upgrading pieces is currently not testable. Below, we have all the currently known information on the Creation Catalyst.
+<center>
+<img src=https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-Creation-Catalyst/Guide-Creation-Catalyst-01.jpg float=center border=2>
+</center>
 
-## Creation Catalyst Location and Unlocking Requirements</h2>
-The Creation Catalyst is located all the way south in Zereth Mortis, high up in the air within the Catalyst Gardens. You first come across the Creation Catalyst during [Chapter 4 of the 9.2 Campaign, Forging a New Path](https://www.wowhead.com/news/zereth-mortis-storyline-chapters-4-and-5-of-patch-9-2-questline-story-spoilers-325234). As this chapter is required to unlock the teleporter leading to the Sepulcher of the First ones raid, at least all raiders should have it completed by the time the Creation Catalyst is available for use.
+В патче 9.2 был добавлен Катализатор Творения, инструмент для крафта кусков классового сета из гира падающего в 3м сезоне Shadowlands.
 
-It is worth reminding that the Creation Catalyst [will become available at Week 8 of Patch 9.2.](https://ptr.wowhead.com/news/blizzard-reveals-specific-details-on-tier-sets-in-patch-9-2-creation-catalyst-325798)
+## Как его разблокировать и где найти
+<html>
+<center>
+<img src=https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-Creation-Catalyst/Guide-Creation-Catalyst-01.jpg float=center border=2>
+</center>  
+</html>
 
-Currently, likely as a bug, flying is required to reach the Creation Catalyst, but General Draven is supposed to be able to fly to the console if you don't have flying unlocked.
+Катализатор Творения находится на юге Зерет Мортис, высоко в воздухе в Catalyst Gardens. Вы впервые окажетесь там в Главе 4 Кампании 9.2, [Прокладывая новый путь](https://ru.wowhead.com/storyline/%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D1%8B%D0%B2%D0%B0%D1%8F-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%83%D1%82%D1%8C-1262). Поскольку эта глава необходима для разблокировки телепорта, ведущего в Гробницу - лучше всего будет попасть туда по Кампании Зерет Мортис.
 
-![Резец Творения](../Assets/Creation-Catalyst/Creation-Catalyst-1.jpg) ![Резец Творения](../Assets/Creation-Catalyst/Creation-Catalyst-2.jpg)
+## Интерфейс Катализатора
+<html>
+<center>
+<img src=https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-Creation-Catalyst/Guide-Creation-Catalyst-03.jpg float=center border=2>
+</center>  
+</html>
 
-## Catalyst Creation Interface</h2>
+Интерфейс Катализатора Творения очень прост — просто вставьте кусок гира в первый слот и он преобразуется в кусок классового сета. Разумеется если у вас достаточно [Ветра](https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Guides/Guide-Next-Patch-9.2-Cosmic-Flux.md). Катализатор Творения также покажет предупреждение если он уже разряжен. Катализатор заряжался одну неделю но со временем этот срок будет уменьшаться постепенно пока не достигнет кд в один день (по [заявлениям близзов](https://ru.tbc.wowhead.com/news/blizzard-faq-on-tier-set-acquisition-tier-set-tokens-revealed-new-trading-325857)).
 
-The Creation Catalyst interface is very simple - Simply input one item there, and a tier piece will be output. The Creation Catalyst also has a timer in case your cooldown is not charged, but there is currently no timer on when the cooldown is supposed to come up. Clicking the input window displays all items that are compatible with the catalyst.
+<html>
+<center>
+<img src=https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-Creation-Catalyst/Guide-Creation-Catalyst-04.jpg float=center border=2>
+</center>  
+</html>
+
+Если вы наведете курсор мыши на окно ввода, вы увидите, какие фигуры можно туда вводить — это могут быть любые фигуры из Shadowlands Season 3 Mythic+, Rated PvP или рейда Sepulcher of the First Ones.
+
+The Катализатор Творения interface is very simple - Simply input one item there, and a tier piece will be output. The Катализатор Творения also has a timer in case your cooldown is not charged, but there is currently no timer on when the cooldown is supposed to come up. Clicking the input window displays all items that are compatible with the catalyst.
 
 As of the latest blue post on the subject, you will initially be able to convert one tier set piece per week, but the timer between conversions will shorten as the patch progresses.
 
@@ -32,7 +51,7 @@ Converting a piece into raid gear is simple: Simply input a compatible piece int
 
 Non-tier set slots (Cloak, Bracers, Belt and Boots) can also be input into the Catalyst, and these will be turned into &quot;Tier&quot; pieces with different stats. These off-pieces will not count towards obtaining a set piece, but it can be a useful way to chase stats that might be better for your spec. As of note, this can be used to convert PvP pieces into tier pieces without the Versatility stat. 
 
-It is currently unclear whether off-pieces created with the Creation Catalyst not giving tier set bonuses is intended or not.
+It is currently unclear whether off-pieces created with the Катализатор Творения not giving tier set bonuses is intended or not.
 
 PvP pieces transformed into tier pieces will retain the item level increase bonus from PvP pieces in PvP content like Battlegrounds, Arenas and War Mode.
 
