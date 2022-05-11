@@ -76,3 +76,6 @@
 - Пояс, сапоги: 800 <a href="https://ru.wowhead.com/currency=2009"><img src="https://wow.zamimg.com/images/wow/icons/large/inv_currency_cosmicflux.jpg" align="bottom" width="13" height="13"/></a>  
 - Плечи, перчатки: 1200 <a href="https://ru.wowhead.com/currency=2009"><img src="https://wow.zamimg.com/images/wow/icons/large/inv_currency_cosmicflux.jpg" align="bottom" width="13" height="13"/></a>  
 - Шлем, чест, ноги: 1500 <a href="https://ru.wowhead.com/currency=2009"><img src="https://wow.zamimg.com/images/wow/icons/large/inv_currency_cosmicflux.jpg" align="bottom" width="13" height="13"/></a>  
+---
+#гайд #терминология  
+[TrinkIt!](https://t.me/trink_it_now)
