@@ -32,7 +32,7 @@
 
 #### Новый аффикс, Shrouded  
 
-Новый аффикс для 4го сезона это [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_nethercloak.gif) Shrouded](https://ptr.wowhead.com/affix=131/shrouded). Точной информации о механиках аффикса пока нет но спекуляции на тему намекают что аффикс будет работать примерно как маскировка дредлордов из Гробницы.
+Новый аффикс для 4го сезона это <a href="https://ptr.wowhead.com/affix=131/shrouded"><img src="https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_nethercloak.gif" align="bottom" width="13" height="13"/> Shrouded</a>. Точной информации о механиках аффикса пока нет но спекуляции на тему намекают что аффикс будет работать примерно как маскировка дредлордов из Гробницы.
 
 #### Маунт 4го сезона ключей
 В 4м сезоне ключей вы получите маунт [Restoration Deathwalker](https://ptr.wowhead.com/item=192557/restoration-deathwalker), пурпурный и золотой реколоры [Вестников смерти](https://ru.wowhead.com/items/miscellaneous/mounts/flying#items;q=%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA%20%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8)  
@@ -42,25 +42,25 @@
 [Рейды ШЛ](https://ru.wowhead.com/zones/shadowlands/raids) возвращаются с ребалансом уровней сложности и новым рейдовым аффиксом.
 
 #### Рейдовая механика "Fated"
-В четвертом сезоне рейды будут раз в неделю по очереди получать аффикс [**Fated**](https://ptr.wowhead.com/spell=371278/fated-raid), аффикс будет увеличивать здоровье боссов и мобов соответственно реалиям 4го сезона и давать им новые абилки. За победу в таких рейдах, помимо нового гира вы будете получать новую валюту [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_curiouscoin.gif) Puzzling Cartel Dinar](https://ptr.wowhead.com/item=192466/puzzling-cartel-dinar).  
+В четвертом сезоне рейды будут раз в неделю по очереди получать аффикс [**Fated**](https://ptr.wowhead.com/spell=371278/fated-raid), аффикс будет увеличивать здоровье боссов и мобов соответственно реалиям 4го сезона и давать им новые абилки. За победу в таких рейдах, помимо нового гира вы будете получать новую валюту <a href="https://ptr.wowhead.com/item=192466/puzzling-cartel-dinar"><img src="https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_curiouscoin.gif" align="bottom" width="13" height="13"/> Puzzling Cartel Dinar</a>.  
 
 Во время таких рейдов будут действовать специальные механики:  
-- **[![](https://wow.zamimg.com/images/wow/icons/tiny/inv_trinket_progenitorraid_01_green.gif)  Fated Power: Chaotic Essence](https://ptr.wowhead.com/spell=372642/fated-power-chaotic-essence)** - Призывает хаотическую сущность, которая применяет "Хаотическое разрушение", нанося 799 ед. космического урона всем игрокам в случае попадания.
+- **<a href="https://ptr.wowhead.com/spell=372642/fated-power-chaotic-essence"><img src="https://wow.zamimg.com/images/wow/icons/tiny/inv_trinket_progenitorraid_01_green.gif" align="bottom" width="13" height="13"/>  Fated Power: Chaotic Essence</a>** - Призывает хаотическую сущность, которая применяет "Хаотическое разрушение", нанося 799 ед. космического урона всем игрокам в случае попадания.
 В случае атаки сущность становится враждебной и вместо вышеописанного эффекта кастует Частицы Хаоса. Эти частицы наносят 3 ед. космического урона выбранным игрокам каждые 0,5 сек. в течение 3 сек. При уничтожении каждая частица распадается на дополнительные частицы.
 Через 15 сек. Сущность Хаоса деспавнится, увеличивая урон, отхил и абсорб всех игроков на 2% на 25 сек. Этот эффект суммируется за каждую уничтоженную частицу Хаоса.
 
-- **[![](https://wow.zamimg.com/images/wow/icons/tiny/inv_progenitor_rarereagent.gif) Fated Power: Creation Spark](https://ptr.wowhead.com/spell=372647/fated-power-creation-spark)** - 
+- **<a href="https://ptr.wowhead.com/spell=372647/fated-power-creation-spark"><img src="https://wow.zamimg.com/images/wow/icons/tiny/inv_progenitor_rarereagent.gif" align="bottom" width="13" height="13"/> Fated Power: Creation Spark</a>** - 
 Чарджится в игрока, нанося 3 ед. космического урона раз в 1 сек. в течение 30 сек. Этот эффект суммируется.
 После диспелла\истечения этого эффекта вокруг игрока образуются Искры Созидания, которые при взаимодействии увеличивают течение времени на 10%, увеличивая скорость каста, скорость атак, скорость бега, скорость отката спеллов и тиканье дот на 20 секунд, эффект суммируется.
 Если же Искра Созидания не подбирается то она взрывается, нанося 10 Космического урона каждые 2 секунды в течение 20 секунд, этот эффект также суммируется.
 
-- **[![](https://wow.zamimg.com/images/wow/icons/tiny/inv_ring_progenitorraid_03_yellow.gif) Fated Power: Protoform Barrier](https://ptr.wowhead.com/spell=372418/fated-power-protoform-barrier)** - 
+- **<a href="https://ptr.wowhead.com/spell=372418/fated-power-protoform-barrier"><img src="https://wow.zamimg.com/images/wow/icons/tiny/inv_ring_progenitorraid_03_yellow.gif" align="bottom" width="13" height="13"/> Fated Power: Protoform Barrier</a>** - 
 Усиливает врага и наносит 1 космический урон всем игрокам каждые 3 секунды.
 При развеивании или передамаживании этого щита он становится отдельным мобом, которого можно атаковать, он накладывает общий щит на всех врагов, поглощающий 400 урона на 15 секунд. Щит можно также гасить отхилом.
 По истечении срока действия щит взрывается, нанося 50 ед. космического урона и дополнительно 5 ед. космического урона раз в 1 сек. всем игрокам на 8 сек.
 При сбивании щита весь урон, нанесенный каждому врагу во время действия барьера, становится космическим уроном, а кроме того, все игроки получают увеличение урона, отхила и абсорба на 25% на 40 сек.
 
-- **[![](https://wow.zamimg.com/images/wow/icons/tiny/inv_progenitorbird.gif) Fated Power: Reconfiguration Emitter](https://ptr.wowhead.com/spell=372419/fated-power-reconfiguration-emitter)** - 
+- **<a href="https://ptr.wowhead.com/spell=372419/fated-power-reconfiguration-emitter"><img src="https://wow.zamimg.com/images/wow/icons/tiny/inv_progenitorbird.gif" align="bottom" width="13" height="13"/> Fated Power: Reconfiguration Emitter</a>** - 
 Призывает нового моба, который будет постоянно кастовать 30 ед. космического урона в игроков, с увеличением этого урона на 50% каждые 5 секунд. Моб не получает урона пока ему не сбить каст.
 После исчезновения этот моб дает всем игрокам увеличенную на 10% мастери, критшанс, версу и 8% прибавку к избеганию. Процент прибавки зависит от стаков урона которые моб успел набрать до кика.
 
@@ -86,16 +86,16 @@
 
 А за все три рейда, пройденных на аффикс неделе есть метаачивка:
 
-- [![](https://wow.zamimg.com/images/wow/icons/tiny/achievement_mythicdungeons_shadowlands.gif) Fates of the Shadowlands Raids](https://ptr.wowhead.com/achievement=15684/fates-of-the-shadowlands-raids): Пройдите все три рейда в недели действия аффикса. **Награда**: Jigglesworth Sr.
+- <a href="https://ptr.wowhead.com/achievement=15684/fates-of-the-shadowlands-raids"><img src="https://wow.zamimg.com/images/wow/icons/tiny/achievement_mythicdungeons_shadowlands.gif" align="bottom" width="13" height="13"/> Fates of the Shadowlands Raids</a>: Пройдите все три рейда в недели действия аффикса. **Награда**: Jigglesworth Sr.
 
 <center>
 <img src=https://pbs.twimg.com/media/FRYuIw5WYA0CpZC.jpg float=center border=2><br>
 <i>Да, это маунт котик из слизи</i>
 </center>
 
-- [![](https://wow.zamimg.com/images/wow/icons/tiny/achievement_mythicdungeons_shadowlands.gif) Heroic: Fates of the Shadowlands Raids](https://ptr.wowhead.com/achievement=15685/heroic-fates-of-the-shadowlands-raids): Пройдите все три рейда в недели действия аффикса, *в героической сложности*. **Награда**: Звание [%s, Hero of Fate](https://ptr.wowhead.com/title=724/hero-of-fate)
+- <a href="https://ptr.wowhead.com/achievement=15685/heroic-fates-of-the-shadowlands-raids"><img src="https://wow.zamimg.com/images/wow/icons/tiny/achievement_mythicdungeons_shadowlands.gif" align="bottom" width="13" height="13"/> Heroic: Fates of the Shadowlands Raids</a>: Пройдите все три рейда в недели действия аффикса, *в героической сложности*. **Награда**: Звание [%s, Hero of Fate](https://ptr.wowhead.com/title=724/hero-of-fate)
 
-- [![](https://wow.zamimg.com/images/wow/icons/tiny/achievement_mythicdungeons_shadowlands.gif) Mythic: Fates of the Shadowlands Raids](https://ptr.wowhead.com/achievement=15687/mythic-fates-of-the-shadowlands-raids): Пройдите все три рейда в недели действия аффикса, *в мифической сложности*. **Награда**: Телепорты к рейдам ШЛ.
+- <a href="https://ptr.wowhead.com/achievement=15687/mythic-fates-of-the-shadowlands-raids"><img src="https://wow.zamimg.com/images/wow/icons/tiny/achievement_mythicdungeons_shadowlands.gif" align="bottom" width="13" height="13"/> Mythic: Fates of the Shadowlands Raids</a>: Пройдите все три рейда в недели действия аффикса, *в мифической сложности*. **Награда**: Телепорты к рейдам ШЛ.
 
 ### 4й сезон PvP
 По 4му сезону пвп мало информации, но мы знаем что звание за 0.1% рейтинга будет [Eternal Gladiator %s](https://ptr.wowhead.com/title=721/eternal-gladiator) (за ачивку [![](https://wow.zamimg.com/images/wow/icons/tiny/achievement_featsofstrength_gladiator_07.gif) Eternal Gladiator: Shadowlands Season 4](https://ptr.wowhead.com/achievement=15606/eternal-gladiator-shadowlands-season-4) соответственно).  
@@ -125,7 +125,7 @@
 ## Расовые комплекты
 Добавлены два квестчейна: 
 
-Игроки **ельфы** будут расследовать проделки Плети в [Призрачных Землях](https://ru.wowhead.com/ghostlands). В конце цепочки они получат маунт [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_mount_cockatricemount_green.gif) Elusive Emerald Hawkstrider](https://ptr.wowhead.com/item=191566/elusive-emerald-hawkstrider) набор **паладинского** мога [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_tournaments_symbol_bloodelf.gif) Ensemble: Blood Knight's Dedication](https://ptr.wowhead.com/item=191565/ensemble-blood-knights-dedication).  
+Игроки **ельфы** будут расследовать проделки Плети в [Призрачных Землях](https://ru.wowhead.com/ghostlands). В конце цепочки они получат маунт <a href="https://ptr.wowhead.com/item=191566/elusive-emerald-hawkstrider"><img src="https://wow.zamimg.com/images/wow/icons/tiny/ability_mount_cockatricemount_green.gif" align="bottom" width="13" height="13"/> Elusive Emerald Hawkstrider</a> набор **паладинского** мога [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_tournaments_symbol_bloodelf.gif) Ensemble: Blood Knight's Dedication](https://ptr.wowhead.com/item=191565/ensemble-blood-knights-dedication).  
 
 <center>
 <img src=https://wow.zamimg.com/uploads/screenshots/normal/1058714.jpg float=center border=2><br>
