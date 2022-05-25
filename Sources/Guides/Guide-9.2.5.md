@@ -206,5 +206,5 @@ More lore interactions between characters have been added in Patch 9.2.5. Story 
 
 ---
 [Арт](https://twitter.com/Nekrokat/status/1315574265761206272) от [✦ Nekrokat ✦](https://twitter.com/Nekrokat)  
-[от Neryssa](https://www.wowhead.com/user=Neryssa), переведено [Trink it now](https://t.me/trink_it_now)  
+[гайд от Neryssa](https://www.wowhead.com/user=Neryssa), переведено [Trink it now](https://t.me/trink_it_now)  
 [#гайды](https://t.me/trink_it_now) [#следующий](https://t.me/trink_it_now) [#патч](https://t.me/trink_it_now)
