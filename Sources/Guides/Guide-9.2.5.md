@@ -171,7 +171,7 @@
 
 ## Постой и послушай
 
-More lore interactions between characters have been added in Patch 9.2.5. Story spoilers.  
+Диалоги "Постой и послушай" активируются в некоторых местах сюжета, когда игрок стоит возле нпц:  
 
 <details><summary>Спойлер</summary>
 	<pre>
