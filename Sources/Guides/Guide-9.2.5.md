@@ -45,9 +45,7 @@
 В четвертом сезоне рейды будут раз в неделю по очереди получать аффикс [**Fated**](https://ptr.wowhead.com/spell=371278/fated-raid), аффикс будет увеличивать здоровье боссов и мобов соответственно реалиям 4го сезона и давать им новые абилки. За победу в таких рейдах, помимо нового гира вы будете получать новую валюту <a href="https://ptr.wowhead.com/item=192466/puzzling-cartel-dinar"><img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-9.2.5/Guide-9.2.5-02.png" align="bottom" width="13" height="13"/> Puzzling Cartel Dinar</a>.  
 
 Во время таких рейдов будут действовать специальные механики:  
-- **<a href="https://ptr.wowhead.com/spell=372642"><img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-9.2.5/Guide-9.2.5-03.png
-
-" align="bottom" width="13" height="13"/>  Fated Power: Chaotic Essence</a>** - Призывает хаотическую сущность, которая применяет "Хаотическое разрушение", нанося 799 ед. космического урона всем игрокам в случае попадания.
+- **<a href="https://ptr.wowhead.com/spell=372642"><img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-9.2.5/Guide-9.2.5-03.png" align="bottom" width="13" height="13"/>  Fated Power: Chaotic Essence</a>** - Призывает хаотическую сущность, которая применяет "Хаотическое разрушение", нанося 799 ед. космического урона всем игрокам в случае попадания.
 В случае атаки сущность становится враждебной и вместо вышеописанного эффекта кастует Частицы Хаоса. Эти частицы наносят 3 ед. космического урона выбранным игрокам каждые 0,5 сек. в течение 3 сек. При уничтожении каждая частица распадается на дополнительные частицы.
 Через 15 сек. Сущность Хаоса деспавнится, увеличивая урон, отхил и абсорб всех игроков на 2% на 25 сек. Этот эффект суммируется за каждую уничтоженную частицу Хаоса.
 
