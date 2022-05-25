@@ -1,5 +1,9 @@
 # Все что мы знаем о 9.2.5
 
+<center>
+<img src=https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-9.2.5/Guide-9.2.5-01.jpg float=center border=2>
+</center>
+
 Добро пожаловать в наш гайд по патчу 9.2.5. Патч выпускается вне расписания, просто чтобы успокоить любителей поныть на реддите про ноуконтент и предоставляет в основном механические изменения.
 
 ## А когда?
@@ -64,7 +68,7 @@
 
 \* ***Учтите что 4й сезон позиционируется как сезон "веселья" и Зал Славы в нем не учитывается, стало быть обновленные рейды будут сразу доступны для межсерверных пати.***
 
-#### Fated Gear Vendors and Fated Gear Upgrades
+#### Тюнинг системы рейддропа
 Так как рейд с новым аффиксом будет каждую неделю меняться то у вас наверное уже случились вьетнамские флешбеки о 20 брейсах подряд. Но близзы вводят новых вендоров, которые будут продавать пухи и триньки за вышеупомянутые [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_curiouscoin.gif)
  Динары](https://ptr.wowhead.com/item=192466/puzzling-cartel-dinar).
  Также будет срабатывать особая система "защиты от брейсов", будут выпадать шарды [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_trinket_progenitorraid_05_green.gif)
@@ -201,5 +205,6 @@ More lore interactions between characters have been added in Patch 9.2.5. Story 
 </details>
 
 ---
+[Арт](https://twitter.com/Nekrokat/status/1315574265761206272) от [✦ Nekrokat ✦](https://twitter.com/Nekrokat)  
 [от Neryssa](https://www.wowhead.com/user=Neryssa), переведено [Trink it now](https://t.me/trink_it_now)  
 [#гайды](https://t.me/trink_it_now) [#следующий](https://t.me/trink_it_now) [#патч](https://t.me/trink_it_now)
