@@ -32,8 +32,7 @@
 
 #### Новый аффикс, Shrouded  
 
-Новый аффикс для 4го сезона это [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_nethercloak.gif)
- Shrouded](https://ptr.wowhead.com/affix=131/shrouded). Точной информации о механиках аффикса пока нет но спекуляции на тему намекают что аффикс будет работать примерно как маскировка дредлордов из Гробницы.
+Новый аффикс для 4го сезона это [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_nethercloak.gif) Shrouded](https://ptr.wowhead.com/affix=131/shrouded). Точной информации о механиках аффикса пока нет но спекуляции на тему намекают что аффикс будет работать примерно как маскировка дредлордов из Гробницы.
 
 #### Маунт 4го сезона ключей
 В 4м сезоне ключей вы получите маунт [Restoration Deathwalker](https://ptr.wowhead.com/item=192557/restoration-deathwalker), пурпурный и золотой реколоры [Вестников смерти](https://ru.wowhead.com/items/miscellaneous/mounts/flying#items;q=%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA%20%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8)  
@@ -43,8 +42,7 @@
 [Рейды ШЛ](https://ru.wowhead.com/zones/shadowlands/raids) возвращаются с ребалансом уровней сложности и новым рейдовым аффиксом.
 
 #### Рейдовая механика "Fated"
-В четвертом сезоне рейды будут раз в неделю по очереди получать аффикс [**Fated**](https://ptr.wowhead.com/spell=371278/fated-raid), аффикс будет увеличивать здоровье боссов и мобов соответственно реалиям 4го сезона и давать им новые абилки. За победу в таких рейдах, помимо нового гира вы будете получать новую валюту [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_curiouscoin.gif)
- Puzzling Cartel Dinar](https://ptr.wowhead.com/item=192466/puzzling-cartel-dinar).  
+В четвертом сезоне рейды будут раз в неделю по очереди получать аффикс [**Fated**](https://ptr.wowhead.com/spell=371278/fated-raid), аффикс будет увеличивать здоровье боссов и мобов соответственно реалиям 4го сезона и давать им новые абилки. За победу в таких рейдах, помимо нового гира вы будете получать новую валюту [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_curiouscoin.gif) Puzzling Cartel Dinar](https://ptr.wowhead.com/item=192466/puzzling-cartel-dinar).  
 
 Во время таких рейдов будут действовать специальные механики:  
 - **[![](https://wow.zamimg.com/images/wow/icons/tiny/inv_trinket_progenitorraid_01_green.gif)  Fated Power: Chaotic Essence](https://ptr.wowhead.com/spell=372642/fated-power-chaotic-essence)** - Призывает хаотическую сущность, которая применяет "Хаотическое разрушение", нанося 799 ед. космического урона всем игрокам в случае попадания.
