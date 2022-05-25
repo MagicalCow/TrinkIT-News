@@ -32,7 +32,7 @@
 
 #### Новый аффикс, Shrouded  
 
-Новый аффикс для 4го сезона это <a href="https://ptr.wowhead.com/affix=131/shrouded"><img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-9.2.5/Guide-9.2.5-01.gif" align="bottom" width="13" height="13"/> Shrouded.</a> Точной информации о механиках аффикса пока нет но спекуляции на тему намекают что аффикс будет работать примерно как маскировка дредлордов из Гробницы.
+Новый аффикс для 4го сезона это <a href="https://ptr.wowhead.com/affix=131/shrouded"><img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-9.2.5/Guide-9.2.5-02.gif" align="bottom" width="13" height="13"/> Shrouded.</a> Точной информации о механиках аффикса пока нет но спекуляции на тему намекают что аффикс будет работать примерно как маскировка дредлордов из Гробницы.
 
 #### Маунт 4го сезона ключей
 В 4м сезоне ключей вы получите маунт [Restoration Deathwalker](https://ptr.wowhead.com/item=192557/restoration-deathwalker), пурпурный и золотой реколоры [Вестников смерти](https://ru.wowhead.com/items/miscellaneous/mounts/flying#items;q=%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA%20%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8)  
@@ -45,7 +45,7 @@
 В четвертом сезоне рейды будут раз в неделю по очереди получать аффикс [**Fated**](https://ptr.wowhead.com/spell=371278/fated-raid), аффикс будет увеличивать здоровье боссов и мобов соответственно реалиям 4го сезона и давать им новые абилки. За победу в таких рейдах, помимо нового гира вы будете получать новую валюту <a href="https://ptr.wowhead.com/item=192466/puzzling-cartel-dinar"><img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-9.2.5/Guide-9.2.5-02.gif" align="bottom" width="13" height="13"/> Puzzling Cartel Dinar</a>.  
 
 Во время таких рейдов будут действовать специальные механики:  
-- **<a href="https://ptr.wowhead.com/spell=372642/fated-power-chaotic-essence"><img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-9.2.5/Guide-9.2.5-03.gif
+- **<a href="https://ptr.wowhead.com/spell=372642"><img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-9.2.5/Guide-9.2.5-03.gif
 
 " align="bottom" width="13" height="13"/>  Fated Power: Chaotic Essence</a>** - Призывает хаотическую сущность, которая применяет "Хаотическое разрушение", нанося 799 ед. космического урона всем игрокам в случае попадания.
 В случае атаки сущность становится враждебной и вместо вышеописанного эффекта кастует Частицы Хаоса. Эти частицы наносят 3 ед. космического урона выбранным игрокам каждые 0,5 сек. в течение 3 сек. При уничтожении каждая частица распадается на дополнительные частицы.
