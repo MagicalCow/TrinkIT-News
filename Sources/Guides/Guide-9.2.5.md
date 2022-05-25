@@ -32,7 +32,7 @@
 
 #### Новый аффикс, Shrouded  
 
-Новый аффикс для 4го сезона это <a href="https://ptr.wowhead.com/affix=131/shrouded"><img src="https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_nethercloak.gif" align="bottom" width="13" height="13"/> Shrouded.</a> Точной информации о механиках аффикса пока нет но спекуляции на тему намекают что аффикс будет работать примерно как маскировка дредлордов из Гробницы.
+Новый аффикс для 4го сезона это <a href="https://ptr.wowhead.com/affix=131"><img src="https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_nethercloak.gif"> Shrouded</a> Точной информации о механиках аффикса пока нет но спекуляции на тему намекают что аффикс будет работать примерно как маскировка дредлордов из Гробницы.
 
 #### Маунт 4го сезона ключей
 В 4м сезоне ключей вы получите маунт [Restoration Deathwalker](https://ptr.wowhead.com/item=192557/restoration-deathwalker), пурпурный и золотой реколоры [Вестников смерти](https://ru.wowhead.com/items/miscellaneous/mounts/flying#items;q=%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA%20%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8)  
