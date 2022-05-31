@@ -88,7 +88,7 @@
 - <a href="https://ptr.wowhead.com/achievement=15684/fates-of-the-shadowlands-raids"><img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-9.2.5/Guide-9.2.5-10.png" align="bottom" width="13" height="13"/> Fates of the Shadowlands Raids</a>: Пройдите все три рейда в недели действия аффикса. **Награда**: Jigglesworth Sr.
 
 <center>
-<img src=https://pbs.twimg.com/media/FRYuIw5WYA0CpZC.jpg float=center border=2><br>
+<img src=https://wow.zamimg.com/uploads/screenshots/normal/1000931-mr-jigglesworth-theres-something-so-very-precious-about-watching-a-tiny-little.jpg float=center border=2><br>
 <i>Да, это маунт котик из слизи</i>
 </center>
 
