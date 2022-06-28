@@ -12,10 +12,10 @@
 📅 До субботы продолжается <a href="https://ru.wowhead.com/darkmoon-faire">Ярмарка Новолуния</a>.
 
 ## Активные аффиксы
-💥 <a href="https://ru.wowhead.com/affix=9">Тиранический</a>  
-💥 <a href="https://ru.wowhead.com/affix=6">Разъяренный</a>  
-💥 <a href="https://ru.wowhead.com/affix=3">Вулканический</a>  
-💥 <a href="https://ru.wowhead.com/affix=130">Зашифрованный</a>  
+💥 <a href="https://ru.wowhead.com/affix=10/">Укрепленный</a>
+💥 <a href="https://ru.wowhead.com/affix=122/">Воодушевляющий</a>
+💥 <a href="https://ru.wowhead.com/affix=12/">Мучительный</a>
+💥 <a href="https://ru.wowhead.com/affix=130/">Зашифрованный</a>
 
 ## Атаки ковенантов
 Ср—Сб: Кирии  
