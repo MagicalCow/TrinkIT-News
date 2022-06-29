@@ -1,10 +1,8 @@
 # Все что мы знаем о грядущем классическом Леще 
 
 <center>
-<video autoplay muted loop  width="100%" id="myVideo">
-	<source src="Guide-WotLK-00.mp4" type="video/mp4">
-</video>
-</center>
+<img src=https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guide-WotLK/Guide-WotLK-01.png float=center border=2>
+</center>  
 
 <a name="toc"/>  
 
