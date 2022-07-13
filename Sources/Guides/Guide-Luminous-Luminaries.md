@@ -25,7 +25,7 @@
 <a name="howto"/>  
 
 ## А как? [⇑](#toc)
-Праздник начинается в Вайш'ире, в зоне Бездонные глубины. По координатам /way 44 37 дрейфует подводная лодка ГГ Инжиниринг, там вы найдете праздничных нпц [Макса Мегашмякса](https://ru.wowhead.com/npc=151288/) и [Поврежденные шлемы для подводного плавания](https://ru.wowhead.com/npc=151837/).
+Праздник начинается в Вайш'ире, в зоне [Бездонные глубины](https://ru.wowhead.com/zone=5145). По координатам /way 44 37 дрейфует подводная лодка ГГ Инжиниринг, там вы найдете праздничных нпц [Макса Мегашмякса](https://ru.wowhead.com/npc=151288/) и [Поврежденные шлемы для подводного плавания](https://ru.wowhead.com/npc=151837/).
 
 <center>
 <img src=https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Guides/Guide-Luminous-Luminaries-02.jpg float=center border=2>
