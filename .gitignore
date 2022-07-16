@@ -4,6 +4,7 @@ desktop.ini
 *.xcf
 #Ignore Video
 *.mp4
+*.m4v
 #Ignore temporary MS Office files
 ~$*.xls*
 ~$*.doc*
