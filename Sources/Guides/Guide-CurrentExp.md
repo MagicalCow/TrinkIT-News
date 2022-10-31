@@ -1,0 +1,6 @@
+# Гайд по текущему аддону
+
+## Баффы и расходники
+### Руны
+- **<a href="https://ru.wowhead.com/item=181468"><img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_gem_azuredraenite_01.jpg" width="13" height="13"/> Затененная руна усиления</a>:** Обычная руна дополнения, повышает ловкость, интеллект и силу на 18 на 1 час.
+- **<a href="https://ru.wowhead.com/item=190384/"><img src="https://wow.zamimg.com/images/wow/icons/large/inv_jewelcrafting_optionalreagent_02.jpg" width="13" height="13"/> Вечная руна усиления</a>:** Новая руна 9.2, повышает статы так же как и прошлая руна, но, учитывая что эффект обеих рун не сохраняется после смерти, эта руна имеет кд в минуту вместо часа. Так же эффект от руны стакается с <a href="https://ru.wowhead.com/item=118922/"><img src="https://wow.zamimg.com/images/wow/icons/large/inv_enchant_shardshadowfrostlarge.jpg" width="13" height="13"/> Шепчущим кристаллом Орелия</a>. *Требует превознесения с <a href="https://ru.wowhead.com/faction=2478/">Просветленными</a> для покупки*
