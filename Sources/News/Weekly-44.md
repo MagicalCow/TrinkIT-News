@@ -1,8 +1,8 @@
 # Недельные события 02.11—09.11
 
-<center>
-<img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Weeklies/Weekly-44-01.jpg" width="400" border="2" />
-</center>
+<p align="center">
+<img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Weeklies/Weekly-44-01.jpg?raw=true" width="400" border="2" />
+</p>
 
 ## События
 📅 На этой неделе активен бонус за локалочки. У [Смотрителя Ка-Толл](https://ru.wowhead.com/npc=166307) можно взять квест ❗[Мир ждет](https://ru.wowhead.com/quest=62631/) и сделав 20 локалок вы получите жетон на репу с фракциями ШЛ и 750 анимы.  

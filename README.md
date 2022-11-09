@@ -9,7 +9,6 @@
 
 * **[@WieldNinetyThree](https://t.me/WieldNinetyThree)** - *Предложка/Реклама/Сотрудничество*
 * **[@OxTwentyOne](https://t.me/OxTwentyOne)** - *Предложка*
-* **[@sofuckingbored](https://t.me/sofuckingbored)** - *Предложка*
-* **[@Ardaniil](https://t.me/Ardaniil)** - *Предложка*
+* **[@nimoyya](https://t.me/sofuckingbored)** - *Предложка*
 
 *Trink It Team*

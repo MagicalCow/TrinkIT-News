@@ -1,8 +1,8 @@
 # Недельные события 09.11—16.11
 
-<center>
-<img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Weeklies/Weekly-45-01.jpg" width="400" border="2" />
-</center>
+<p align="center">
+<img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Weeklies/Weekly-45-01.jpg?raw=true" width="400" border="2" />
+</p>
 
 ## События
 📅 Начинается неделя [путешествий во времени по инстам Пандарии](https://ru.wowhead.com/event=643) и у [Смотрителя Ка-Толл](https://ru.wowhead.com/npc=166307) можно взять квест [❗Затуманенный путь сквозь время](http://ru.wowhead.com/quest=62635/) в ходе которого вам необходимо будет пробежать 5 данжей панд и получить [Тайник с сокровищами Гробницы](https://ru.wowhead.com/item=191040/).  

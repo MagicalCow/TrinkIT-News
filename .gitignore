@@ -1,5 +1,6 @@
 # Ignore test folder
 Sources/Lab
+Sources/Memes
 #Ignore OS specific files created by Windows
 Thumbs.db
 desktop.ini
