@@ -1,7 +1,7 @@
 # Недельные события 02.11—09.11
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Sources/Assets/Weeklies/Weekly-44-01.jpg?raw=true" width="400" border="2" />
+<img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Weeklies/Weekly-44-01.jpg?raw=true" width="400" border="2" />
 </p>
 
 ## События
