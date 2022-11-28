@@ -24,6 +24,10 @@
 	- [**Скоростные режимы**](#P1.6)
 	- [**Настройки укачивания**](#P1.7)
 - [**Обвес драконов**](#P2.0)
+- [**Таланты драконов**](#P3.0)
+	- [**Что за таланты**](#P3.1)
+	- [**Как разблокировать таланты**](#P3.2)
+	- [**Таланты и их эффекты**](#P3.2)
 
 <a name="P1.0"/>
 
@@ -178,6 +182,141 @@
 <a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-06.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-06.jpg?raw=true" width="500"></a><br>
 <i>/way Вальдраккен 25.1 50.5 Тальдразус</i>
 </p>
+
+<a name="P3.0"/>
+
+## Таланты драконов
+
+<a name="P3.1"/>
+
+### Что за таланты
+Таланты драконов это вспомогательная система для полетов, такая же как и таланты вашего чара помогают ему в бою. Таланты привязаны к учетке, так что открывать их на альтах не придется. Путешествуя по островам вы пролетите через 48 Драконьих символов. Пролет сквозь такой символ вы получите <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/> Тлеющие драконьи символы</a>, валюту, которой вы будете покупать таланты. Система талантов привязана к учетке так что процедуру сбора нужно будет выполнить только один раз.
+
+<p align="center">
+<a href="https://wow.zamimg.com/uploads/screenshots/normal/1079530.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079530.jpg" width="500"></a>
+<a href="https://wow.zamimg.com/uploads/screenshots/normal/1077904.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077904.jpg" width="500"></a>
+<a href="https://wow.zamimg.com/uploads/screenshots/normal/1077907.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077907.jpg" width="500"></a>
+</p>
+
+<a name="P3.2"/>
+
+### Как разблокировать таланты
+Первые шаги по получению талантов вы сделаете в квесте [❗Драконьи Символы и Вы](https://www.wowhead.com/ru/quest=68798), в нем вас научат покупать таланты и отправят пролететь через первый символ.  
+
+Ваши альты смогут получить уже выученные таланты во время квеста [❗Adventuring in the Dragon Isles](https://www.wowhead.com/ru/quest=72293) и включить их, заплатив <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/> Тлеющими драконьими символами</a>.
+
+<p align="center">
+<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-07.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-07.jpg?raw=true" width="500"></a>
+</p>
+
+Облет всех символов займет порядка <b>30-60 минут</b>.
+
+<a name="P3.2"/>
+
+### Таланты и их эффекты
+
+<table class="grid">
+	<tbody>
+		<tr>
+		<td style="text-align: center;"><b>Талант</b></td>
+		<td style="text-align: center;"><b>Уровень</b></td>
+		<td style="text-align: center;"><b>Описание</b></td>
+		<td style="text-align: center;"><b>Cost</b></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/order-advancement=2087"><img src="https://wow.zamimg.com/images/wow/icons/large/achievement_zone_alteracmountains_01.jpg" width="13" height="13"/>Обучение драконов и наездников</a></td>
+		<td style="text-align: center;">1</td>
+		<td style="text-align: center;">Бодрость увеличивается до 4.</td>
+		<td> 1 <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/></a></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/spell=393999"><img src="https://wow.zamimg.com/images/wow/icons/large/ability_dragonriding_forwardflap01.jpg" width="13" height="13"/>Перенаправление</a></td>
+		<td style="text-align: center;">2</td>
+		<td style="text-align: center;">На низких скоростях эффективность <a href="https://www.wowhead.com/ru/spell=376743"><img src="https://wow.zamimg.com/images/wow/icons/large/inv_icon_wing08b.jpg" width="13" height="13"/>Рывка вперед</a> увеличивается до 122%, снижаясь по мере набора скорости до обычного значения.</td>
+		<td> 3 <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/></a></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/order-advancement=2090"><img src="https://wow.zamimg.com/images/wow/icons/large/achievement_zone_boreantundra_07.jpg" width="13" height="13"/>Активная разминка</a></td>
+		<td style="text-align: center;">2</td>
+		<td style="text-align: center;">Бодрость регенерируется вне полета каждые 25 секунд.</td>
+		<td> 3 <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/></a></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/spell=377964"><img src="https://wow.zamimg.com/images/wow/icons/large/ability_dragonriding_thrillchaser01.jpg" width="13" height="13"/>Азартная гонка</a></td>
+		<td style="text-align: center;">2</td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/spell=377234"><img src="https://wow.zamimg.com/images/wow/icons/large/ability_dragonriding_thrilloftheskies01.jpg" width="13" height="13"/>Азарт небес</a> генерирует 1 единицу Бодрости каждые 10 сек.</td>
+		<td> 3 <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/></a></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/spell=378967"><img src="https://wow.zamimg.com/images/wow/icons/large/ability_dragonriding_ohnahrasgusts01.jpg" width="13" height="13"/>Ветра Он'ары</a></td>
+		<td style="text-align: center;">3</td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/spell=372608"><img src="https://wow.zamimg.com/images/wow/icons/large/ability_dragonriding_forwardflap01.jpg" width="13" height="13"/>Рывок вперед</a> позволяет уклониться от сфер драконьего льда и драконьей молнии, а также от других препятствий в испытаниях на время и гонках.</td>
+		<td> 3 <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/></a></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/spell=378409"><img src="https://wow.zamimg.com/images/wow/icons/large/ability_dragonriding_dragonridersinitiative01.jpg" width="13" height="13"/>Инициатива наездника</a></td>
+		<td style="text-align: center;">4</td>
+		<td style="text-align: center;">Передвигаясь на островном драконе со средней или более высокой скоростью, вы накапливаете до 10 эффектов "Инициативы наездника".
+		Приземляясь на средней или более высокой скорости, вы создаете ударную волну, нанося противникам разделенный между ними поровну урон в размере [АП * 0.72 * (1 + Верса) / 10] ед. за каждый эффект, а также дезориентируете их на 3 sec. Приземление на низкой скорости рассеивает эффекты "Инициативы наездника".</td>
+		<td> 3 <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/></a></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/spell=384824"><img src="https://wow.zamimg.com/images/wow/icons/large/ability_dragonriding_compassion01.jpg" width="13" height="13"/>Сочувствие наездника</a></td>
+		<td style="text-align: center;">4</td>
+		<td style="text-align: center;">Во время полета на островном драконе вы накапливаете до 10 эффектов "Сочувствия наездника".
+		Когда вы спешиваетесь, вас окружает щит, поглощающий урон в объеме 1% вашего максимального здоровья, а ваша скорость передвижения повышается на 1% за каждый эффект на 30 сек.</td>
+		<td> 3 <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/></a></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/order-advancement=2091"><img src="https://wow.zamimg.com/images/wow/icons/large/achievement_zone_boreantundra_04.jpg" width="13" height="13"/>Оздоровительная ходьба</a></td>
+		<td style="text-align: center;">5</td>
+		<td style="text-align: center;">Скорость восстановления бодрости на земле увеличивается до 1 ед. каждые 20 секунд.</td>
+		<td> 4 <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/></a></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/spell=378970"><img src="https://wow.zamimg.com/images/wow/icons/large/ability_dragonriding_airbornetumbling01.jpg" width="13" height="13"/>Перекат в воздухе</a></td>
+		<td style="text-align: center;">6</td>
+		<td style="text-align: center;"> "Крутящий импульс" позволяет уклоняться от "Крылорезов" и спешивает вражеских игроков на воздушном транспорте.</td>
+		<td> 4 <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/></a></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/order-advancement=2088"><img src="https://wow.zamimg.com/images/wow/icons/large/achievement_zone_grizzlyhills_01.jpg" width="13" height="13"/>Начинающий наездник на драконах</a></td>
+		<td style="text-align: center;">7</td>
+		<td style="text-align: center;">Запас бодрости увеличивается до 5 ед.</td>
+		<td> 4 <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/></a></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/spell=381870"><img src="https://wow.zamimg.com/images/wow/icons/large/ability_dragonriding_draconiccultivation01.jpg" width="13" height="13"/>Культивация наездника</a></td>
+		<td style="text-align: center;">8</td>
+		<td style="text-align: center;">Когда вы собираете травы или минералы, скорость восполнения бодрости повышается на 10% на 10 сек.</td>
+		<td> 5 <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/></a></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/spell=381871"><img src="https://wow.zamimg.com/images/wow/icons/large/ability_dragonriding_draconichunt01.jpg" width="13" height="13"/>Драконья охота</a></td>
+		<td style="text-align: center;">8</td>
+		<td style="text-align: center;">Когда вы побеждаете противников, скорость восполнения бодрости повышается на 10% на 3 сек. Срабатывает не чаще раза в 10 сек.</td>
+		<td style="text-align: center;"></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/order-advancement=2089"><img src="https://wow.zamimg.com/images/wow/icons/large/achievement_zone_stormpeaks_01.jpg" width="13" height="13"/>В бесконечность</a></td>
+		<td style="text-align: center;">9</td>
+		<td style="text-align: center;">Запас бодрости увеличивается до 6 ед.</td>
+		<td> 5 <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/></a></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/order-advancement=2092"><img src="https://wow.zamimg.com/images/wow/icons/large/achievement_zone_dragonblight_10.jpg" width="13" height="13"/>Мечты о небе</a></td>
+		<td style="text-align: center;">9</td>
+		<td style="text-align: center;">Скорость восстановления бодрости на земле увеличивается до 1 ед. каждые 15 секунд.</td>
+		<td> 5 <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/></a></td>
+	</tr>
+	<tr>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/spell=377967"><img src="https://wow.zamimg.com/images/wow/icons/large/ability_dragonriding_athomealoft01.jpg" width="13" height="13"/>Дом в небе</a></td>
+		<td style="text-align: center;">9</td>
+		<td style="text-align: center;"> "Азарт небес" дает 1 ед. бодрости раз в 5 сек</td>
+		<td> 5 <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/></a></td>
+	</tr>
+	</tbody>
+</table>
 
 </details>
 
