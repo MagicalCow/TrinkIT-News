@@ -1,5 +1,5 @@
 # @trink_it_now News
-[Новости канала](./Sources/News/Glossary.md) [@trink_it_now](https://t.me/trink_it_now)
+[Новости канала](./Glossary.md) [@trink_it_now](https://t.me/trink_it_now)
 
 **World of Warcraft memes & news**  
 *[Blessed Channel of the Memeseeker]*  
