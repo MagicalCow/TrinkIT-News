@@ -22,67 +22,67 @@
 		<td style="text-align: center;"><b>Кладбище</b></td>
 		<td style="text-align: center;"><b>Координаты (кликабельные)</b></td>
 		<tr>
-		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/blood-elf"><img src="https://wow.zamimg.com/images/wow/icons/tiny/race_bloodelf_male.gif" /> Эльф крови</a></td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/blood-elf"><img src="https://wow.zamimg.com/images/wow/icons/large/race_bloodelf_male.jpg" width="11" height="11"  valign="bottom" /> Эльф крови</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/quest=14171"> Сильвермун</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/maps?data=3430:480494">48.0, 49.4</a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/draenei"><img src="https://wow.zamimg.com/images/wow/icons/tiny/race_draenei_male.gif" /> Дреней</a></td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/draenei"><img src="https://wow.zamimg.com/images/wow/icons/large/race_draenei_male.jpg" width="11" height="11"  valign="bottom" /> Дреней</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/quest=14169"> Экзодар</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/maps?data=3524:476558">47.6, 55.8</a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/dwarf"><img src="https://wow.zamimg.com/images/wow/icons/tiny/race_dwarf_male.gif" /> Дворф</a></td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/dwarf"><img src="https://wow.zamimg.com/images/wow/icons/large/race_dwarf_male.jpg" width="11" height="11"  valign="bottom" /> Дворф</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/quest=14167"> Стальгорн</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/maps?data=1:616374">61.6, 37.4</a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/gnome"><img src="https://wow.zamimg.com/images/wow/icons/tiny/race_gnome_male.gif" /> Гном</a></td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/gnome"><img src="https://wow.zamimg.com/images/wow/icons/large/race_gnome_male.jpg" width="11" height="11"  valign="bottom" /> Гном</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/quest=14168"> Стальгорн</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/maps?data=1:616374">61.6, 37.4</a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/goblin"><img src="https://wow.zamimg.com/images/wow/icons/tiny/race_goblin_male.gif" /> Гоблин</a></td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/goblin"><img src="https://wow.zamimg.com/images/wow/icons/large/race_goblin_male.jpg" width="11" height="11"  valign="bottom" /> Гоблин</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/quest=27841"> Оргриммар</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/maps?data=14:472180">47.2, 18.0</a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/human"><img src="https://wow.zamimg.com/images/wow/icons/tiny/race_human_male.gif" /> Человек</a></td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/human"><img src="https://wow.zamimg.com/images/wow/icons/large/race_human_male.jpg" width="11" height="11"  valign="bottom" /> Человек</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/quest=13952"> Штормград</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/maps?data=1519:476266">47.6, 26.6</a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/night-elf"><img src="https://wow.zamimg.com/images/wow/icons/tiny/race_nightelf_male.gif" /> Ночной эльф</a></td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/night-elf"><img src="https://wow.zamimg.com/images/wow/icons/large/race_nightelf_male.jpg" width="11" height="11"  valign="bottom" /> Ночной эльф</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/quest=14170"> Дарнас (ахахаха)</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/maps?data=1657:698406">69.8, 40.6</a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/orc"><img src="https://wow.zamimg.com/images/wow/icons/tiny/race_orc_male.gif" /> Орк</a></td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/orc"><img src="https://wow.zamimg.com/images/wow/icons/large/race_orc_male.jpg" width="11" height="11"  valign="bottom" /> Орк</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/quest=14175"> Оргриммар</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/maps?data=14:472180">47.2, 18.0</a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/alliance-pandaren"><img src="https://wow.zamimg.com/images/wow/icons/tiny/race_pandaren_male.gif" /> Пандарен</a></td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/alliance-pandaren"><img src="https://wow.zamimg.com/images/wow/icons/large/race_pandaren_male.jpg" width="11" height="11"  valign="bottom" /> Пандарен</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/quest=14166"> Даларан</a>, <a href="https://www.wowhead.com/quest=14172"> Шаттрат (Алдоры)</a>, <a href="https://www.wowhead.com/quest=14173"> Шаттрат (Провидцы)</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/maps?data=4395:346386">34.6, 38.6</a>,<a href="https://www.wowhead.com/ru/maps?data=3519:398218">39.8, 21.8</a>,<a href="https://www.wowhead.com/ru/maps?data=3519:398218">39.8, 21.8</a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/tauren"><img src="https://wow.zamimg.com/images/wow/icons/tiny/race_tauren_male.gif" /> Таурен</a></td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/tauren"><img src="https://wow.zamimg.com/images/wow/icons/large/race_tauren_male.jpg" width="11" height="11"  valign="bottom" /> Таурен</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/quest=14176"> Громовой Утес</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/maps?data=1638:568176">56.8, 17.6</a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/troll"><img src="https://wow.zamimg.com/images/wow/icons/tiny/race_troll_male.gif" /> Тролль</a></td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/troll"><img src="https://wow.zamimg.com/images/wow/icons/large/race_troll_male.jpg" width="11" height="11"  valign="bottom" /> Тролль</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/quest=14177"> Оргриммар</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/maps?data=14:472180">47.2, 18.0</a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/undead"><img src="https://wow.zamimg.com/images/wow/icons/tiny/race_scourge_male.gif" /> Нежить</a></td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/undead"><img src="https://wow.zamimg.com/images/wow/icons/large/race_scourge_male.jpg" width="11" height="11"  valign="bottom" /> Нежить</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/quest=14174"> Подгород</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/maps?data=1497:682152">68.2, 15.2</a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/worgen"><img src="https://wow.zamimg.com/images/wow/icons/tiny/race_worgen_male.gif" /> Ворген</a></td>
+		<td style="text-align: center;"> <a href="https://www.wowhead.com/ru/worgen"><img src="https://wow.zamimg.com/images/wow/icons/large/race_worgen_male.jpg" width="11" height="11"  valign="bottom" /> Ворген</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/quest=27846"> Дарнас</a></td>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/maps?data=1657:698406">69.8, 40.6</a></td>
 	</tr>	
