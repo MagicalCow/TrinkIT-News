@@ -7,19 +7,19 @@
 </p>
 
 <details><summary>Координаты TomTom...</summary>
-<code>/way The Waking Shores 57.7 55.3 разрушающаяся арка Жизни<br>
-/way The Waking Shores 68.8 46.2 застава Драконьего Сердца<br>
-/way The Waking Shores 58.1 78.7 Анклав Морозной Вспышки<br>
-/way The Waking Shores 52.6 17.0 обсерватория Хранительницы Жизни<br>
-/way The Waking Shores 40.9 71.9 Обсидиановый бастион<br>
-/way The Waking Shores 21.7 51.4 Обсидиановый Трон<br>
-/way The Waking Shores 46.4 52.1 Overflowing Spring<br>
-/way The Waking Shores 54.7 74.1 Ruby Life Pools<br>
-/way The Waking Shores 48.7 86.7 Рубиновая застава<br>
-/way The Waking Shores 73.2 20.2 Пик Расколотой Чешуи<br>
-/way The Waking Shores 74.2 57.5 Skytop Rostrum<br>
-/way The Waking Shores 75.1 56.7 Skytop Tower<br>
-/way The Waking Shores 74.8 37.3 посольство Крылатого Приюта<br>
+<code>/way Берега Пробуждения 57.7 55.3 Разрушающаяся арка Жизни<br>
+/way Берега Пробуждения 68.8 46.2 Застава Драконьего Сердца<br>
+/way Берега Пробуждения 58.1 78.7 Анклав Морозной Вспышки<br>
+/way Берега Пробуждения 52.6 17.0 Обсерватория Хранительницы Жизни<br>
+/way Берега Пробуждения 40.9 71.9 Обсидиановый бастион<br>
+/way Берега Пробуждения 21.7 51.4 Обсидиановый Трон<br>
+/way Берега Пробуждения 46.4 52.1 Overflowing Spring<br>
+/way Берега Пробуждения 54.7 74.1 Ruby Life Pools<br>
+/way Берега Пробуждения 48.7 86.7 Рубиновая застава<br>
+/way Берега Пробуждения 73.2 20.2 Пик Расколотой Чешуи<br>
+/way Берега Пробуждения 74.2 57.5 Skytop Rostrum<br>
+/way Берега Пробуждения 75.1 56.7 Skytop Tower<br>
+/way Берега Пробуждения 74.8 37.3 Посольство Крылатого Приюта<br>
 /cway</code>
 </details>
 
@@ -30,56 +30,56 @@
 		<td style="text-align: center;"><b>Location</b></td>
 		<td style="text-align: center;"><b>Скриншот (кликабельный)</b></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15991"> разрушающаяся арка Жизни</a></td>
-		<td style="text-align: center;"><code>/way The Waking Shores 57.7 55.3 разрушающаяся арка Жизни</code><br>Under one of the arches at the location. Looking north, it is the left arch before the broken one.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15991"> Разрушающаяся арка Жизни</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 57.7 55.3 Разрушающаяся арка Жизни</code><br>Under one of the arches at the location. Looking north, it is the left arch before the broken one.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077874.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077874.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16051"> застава Драконьего Сердца</a></td>
-		<td style="text-align: center;"><code>/way The Waking Shores 68.8 46.2 застава Драконьего Сердца</code><br>Inside the tallest tower at the outpost, on the topmost crack.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16051"> Застава Драконьего Сердца</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 68.8 46.2 Застава Драконьего Сердца</code><br>Inside the tallest tower at the outpost, on the topmost crack.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077904.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077904.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16669"> Анклав Морозной Вспышки</a></td>
-		<td style="text-align: center;"><code>/way The Waking Shores 58.1 78.7 Анклав Морозной Вспышки</code><br>On top of a cliff that has a cave that enters deeper into Анклав Морозной Вспышки.</td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 58.1 78.7 Анклав Морозной Вспышки</code><br>On top of a cliff that has a cave that enters deeper into Анклав Морозной Вспышки.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079528.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079528.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15990"> обсерватория Хранительницы Жизни</a></td>
-		<td style="text-align: center;"><code>/way The Waking Shores 52.6 17.0 обсерватория Хранительницы Жизни</code><br>On top of the tallest tower in the Observatory. The Observatory itself is located in a tall mountainous area, but there are plenty of places to stop for Vigor as you climb to the glyph.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15990"> Обсерватория Хранительницы Жизни</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 52.6 17.0 Обсерватория Хранительницы Жизни</code><br>On top of the tallest tower in the Observatory. The Observatory itself is located in a tall mountainous area, but there are plenty of places to stop for Vigor as you climb to the glyph.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077910.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077910.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15987"> Обсидиановый бастион</a></td>
-		<td style="text-align: center;"><code>/way The Waking Shores 40.9 71.9 Обсидиановый бастион</code><br>On top of a stone formation overlooking the bulwark, just south of the actual bulwark location.</td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 40.9 71.9 Обсидиановый бастион</code><br>On top of a stone formation overlooking the bulwark, just south of the actual bulwark location.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077908.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077908.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16053"> Обсидиановый Трон</a></td>
-		<td style="text-align: center;"><code>/way The Waking Shores 21.7 51.4 Обсидиановый Трон</code><br>On top of the lava waterfall that flows through the Обсидиановый Трон. This is an easy flight if started by the Обсидиановый Трон flight path, needing only a few Vigor to climb to the north. Be careful to not fall into the lava!</td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 21.7 51.4 Обсидиановый Трон</code><br>On top of the lava waterfall that flows through the Обсидиановый Трон. This is an easy flight if started by the Обсидиановый Трон flight path, needing only a few Vigor to climb to the north. Be careful to not fall into the lava!</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077912.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077912.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15989"> Overflowing Spring</a></td>
-		<td style="text-align: center;"><code>/way The Waking Shores 46.4 52.1 Overflowing Spring</code><br>On top of a mountain overlooking the spring. Разливающийся ручей itself is located by a tall mountainous area.</td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 46.4 52.1 Overflowing Spring</code><br>On top of a mountain overlooking the spring. Разливающийся ручей itself is located by a tall mountainous area.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077911.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077911.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15988"> Ruby Life Pools</a></td>
-		<td style="text-align: center;"><code>/way The Waking Shores 54.7 74.1 Ruby Life Pools</code><br>On top of a mountain overlooking the Life Pools, just south of the Ruby Life Pools flight path.</td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 54.7 74.1 Ruby Life Pools</code><br>On top of a mountain overlooking the Life Pools, just south of the Ruby Life Pools flight path.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077907.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077907.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16670"> Рубиновая застава</a></td>
-		<td style="text-align: center;"><code>/way The Waking Shores 48.7 86.7 Рубиновая застава</code><br>Just south of Рубиновая застава, near the entrance to the Ohn'ahran Plains.</td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 48.7 86.7 Рубиновая застава</code><br>Just south of Рубиновая застава, near the entrance to the Ohn'ahran Plains.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079529.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079529.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16052"> Пик Расколотой Чешуи</a></td>
-		<td style="text-align: center;"><code>/way The Waking Shores 73.2 20.2 Пик Расколотой Чешуи</code><br>On top of the tallest mountain at Пик Расколотой Чешуиs. This is a difficult climb without Dragonriding talents, so it is suggested to wait until you have a few talent points before going for it.</td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 73.2 20.2 Пик Расколотой Чешуи</code><br>On top of the tallest mountain at Пик Расколотой Чешуиs. This is a difficult climb without Dragonriding talents, so it is suggested to wait until you have a few talent points before going for it.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077909.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077909.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16668"> постамент Поднебесной обсерватории</a></td>
-		<td style="text-align: center;"><code>/way The Waking Shores 74.2 57.5 Skytop Rostrum</code><br>To the left of the Rostrum of Transformation in Skytop Observatory.<br>This glyph is collected during the introduction quest <a href="https://www.wowhead.com/beta/quest=68798">❗Dragon Glyphs and You</a>.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16668"> Постамент Поднебесной обсерватории</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 74.2 57.5 Skytop Rostrum</code><br>To the left of the Rostrum of Transformation in Skytop Observatory.<br>This glyph is collected during the introduction quest <a href="https://www.wowhead.com/beta/quest=68798">❗Dragon Glyphs and You</a>.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079530.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079530.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15985"> башня Поднебесной обсерватории</a></td>
-		<td style="text-align: center;"><code>/way The Waking Shores 75.1 56.7 Skytop Tower</code><br>On top of the tallest tower in the area, the one behind <a href="https://www.wowhead.com/beta/npc=193364/lithragosa"> Lithragosa</a>.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15985"> Башня Поднебесной обсерватории</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 75.1 56.7 Skytop Tower</code><br>On top of the tallest tower in the area, the one behind <a href="https://www.wowhead.com/beta/npc=193364/lithragosa"> Lithragosa</a>.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077906.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077906.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15986"> посольство Крылатого Приюта</a></td>
-		<td style="text-align: center;"><code>/way The Waking Shores 74.8 37.3 посольство Крылатого Приюта</code><br>Just as you exit the embassy from the southwest exit, it's on top of the first ruins to the left.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15986"> Посольство Крылатого Приюта</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 74.8 37.3 Посольство Крылатого Приюта</code><br>Just as you exit the embassy from the southwest exit, it's on top of the first ruins to the left.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077905.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077905.jpg" width="200" /> </a></td>
 	</tbody>
 </table>
@@ -96,12 +96,12 @@
 <code>/way Ohn'ahran Plains 84.2 77.5 Пик драконьих источников<br>
 /way Ohn'ahran Plains 30.0 61.2 Изумрудные сады<br>
 /way Ohn'ahran Plains 29.3 74.5 Eternal Kurgans<br>
-/way Ohn'ahran Plains 70.1 86.6 переправа у речной развилки<br>
-/way Ohn'ahran Plains 78.4 21.4 топь Илистого Древа<br>
+/way Ohn'ahran Plains 70.1 86.6 Переправа у речной развилки<br>
+/way Ohn'ahran Plains 78.4 21.4 Топь Илистого Древа<br>
 /way Ohn'ahran Plains 47.2 72.3 Зеркало Небес<br>
 /way Ohn'ahran Plains 30.7 36.1 Аванпост Нокхуд<br>
 /way Ohn'ahran Plains 57.9 31.2 Ohn'ahra Roost<br>
-/way Ohn'ahran Plains 57.1 80.1 ключи Он'ир<br>
+/way Ohn'ahran Plains 57.1 80.1 Ключи Он'ир<br>
 /way Ohn'ahran Plains 86.4 39.4 Рубеж Русза'тар<br>
 /way Ohn'ahran Plains 44.5 64.9 Сзар Скилит<br>
 /way Ohn'ahran Plains 61.5 64.4 Подъем Песни Ветра<br>
@@ -127,12 +127,12 @@
 		<td style="text-align: center;"><code>/way Ohn'ahran Plains 29.3 74.5 Eternal Kurgans</code><br>High in the sky between the 2 mountains on the tallest portion of the area. Can be a bit tricky to get this glyph as there are no nearby stops for Vigor as most glyphs do.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077918.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077918.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16672"> переправа у речной развилки</a></td>
-		<td style="text-align: center;"><code>/way Ohn'ahran Plains 70.1 86.6 переправа у речной развилки</code><br>Just south of the переправа у речной развилки flight path, between Ohn'ahran Plains and Azure Span.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16672"> Переправа у речной развилки</a></td>
+		<td style="text-align: center;"><code>/way Ohn'ahran Plains 70.1 86.6 Переправа у речной развилки</code><br>Just south of the Переправа у речной развилки flight path, between Ohn'ahran Plains and Azure Span.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079531.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079531.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16671"> топь Илистого Древа</a></td>
-		<td style="text-align: center;"><code>/way Ohn'ahran Plains 78.4 21.4 топь Илистого Древа</code><br>West of Timberstep Outpost, right on the road between Waking Shores and Ohn'ahran Plains.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16671"> Топь Илистого Древа</a></td>
+		<td style="text-align: center;"><code>/way Ohn'ahran Plains 78.4 21.4 Топь Илистого Древа</code><br>West of Timberstep Outpost, right on the road between Waking Shores and Ohn'ahran Plains.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079532.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079532.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16059"> Зеркало Небес</a></td>
@@ -147,8 +147,8 @@
 		<td style="text-align: center;"><code>/way Ohn'ahran Plains 57.9 31.2 Гнездо Он'ары</code><br>Atop the tall mountain that overlooks Maruukai. Although its in a very high altitude, it is a relatively easy climb, as there are plenty of spots to stop for Vigor along the way.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077921.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077921.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16060"> ключи Он'ир</a></td>
-		<td style="text-align: center;"><code>/way Ohn'ahran Plains 57.1 80.1 ключи Он'ир</code><br>High in the sky, overlooking the springs. This can be a difficult glyph to reach with no Dragonriding talents, as there aren't many nearby mountains to stop for Vigor.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16060"> Ключи Он'ир</a></td>
+		<td style="text-align: center;"><code>/way Ohn'ahran Plains 57.1 80.1 Ключи Он'ир</code><br>High in the sky, overlooking the springs. This can be a difficult glyph to reach with no Dragonriding talents, as there aren't many nearby mountains to stop for Vigor.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077914.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077914.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16062"> Рубеж Русза'тар</a></td>
@@ -175,15 +175,15 @@
 
 <details><summary>Координаты TomTom...</summary>
 <code>/way The Azure Span:Dragon Isles 39.3 63.0 Azure Archive<br>
-/way The Azure Span:Dragon Isles 10.6 35.7 лощина Бурошкуров<br>
-/way The Azure Span:Dragon Isles 26.7 31.6 пещера Речного Клыка<br>
+/way The Azure Span:Dragon Isles 10.6 35.7 Лощина Бурошкуров<br>
+/way The Azure Span:Dragon Isles 26.7 31.6 Пещера Речного Клыка<br>
 /way The Azure Span:Dragon Isles 56.7 16.0 Fallen Course<br>
 /way The Azure Span:Dragon Isles 60.6 70.0 Имбу<br>
 /way The Azure Span:Dragon Isles 67.6 29.1 Kalthraz Fortress<br>
 /way The Azure Span:Dragon Isles 70.5 46.2 Затерянные руины<br>
-/way The Azure Span:Dragon Isles 68.6 60.3 руины Карнтара<br>
-/way The Azure Span:Dragon Isles 72.4 39.4 гряда Вактрос<br>
-/way The Azure Span:Dragon Isles 52.8 48.8 застава Зелтрак<br>
+/way The Azure Span:Dragon Isles 68.6 60.3 Руины Карнтара<br>
+/way The Azure Span:Dragon Isles 72.4 39.4 Гряда Вактрос<br>
+/way The Azure Span:Dragon Isles 52.8 48.8 Застава Зелтрак<br>
 /cway</code>
 </details>
 
@@ -198,16 +198,16 @@
 		<td style="text-align: center;"><code>/way The Azure Span:Dragon Isles 39.3 63.0 Azure Archive</code><br>Located by the top ring of the Лазурные архивы area.. Easily reachable by climbing to the top level of the Oculus structure in the area.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079310.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079310.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16068"> лощина Бурошкуров</a></td>
-		<td style="text-align: center;"><code>/way The Azure Span:Dragon Isles 10.6 35.7 лощина Бурошкуров</code><br>At the western portion of the Hollow, by a hill close to the ocean, high in the sky between two trees.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16068"> Лощина Бурошкуров</a></td>
+		<td style="text-align: center;"><code>/way The Azure Span:Dragon Isles 10.6 35.7 Лощина Бурошкуров</code><br>At the western portion of the Hollow, by a hill close to the ocean, high in the sky between two trees.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078289.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078289.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16064"> Кобальтовая ассамблея</a></td>
 		<td style="text-align: center;"><code>/way The Azure Span:Dragon Isles 45.8 26.0 Кобальтовая ассамблея</code><br>On the top of the tallest tower overlooking the assembly. Кобальтовая ассамблея is an area full of Elites, so climbing to the glyph can be a bit hard.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078290.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078290.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16069"> пещера Речного Клыка</a></td>
-		<td style="text-align: center;"><code>/way The Azure Span:Dragon Isles 26.7 31.6 пещера Речного Клыка</code><br>At the top of a broken tree overlooking the area.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16069"> Пещера Речного Клыка</a></td>
+		<td style="text-align: center;"><code>/way The Azure Span:Dragon Isles 26.7 31.6 Пещера Речного Клыка</code><br>At the top of a broken tree overlooking the area.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079305.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079305.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16673"> Fallen Course</a></td>
@@ -226,16 +226,16 @@
 		<td style="text-align: center;"><code>/way The Azure Span:Dragon Isles 70.5 46.2 Затерянные руины</code><br>Inside the top level of the tower overlooking the ruins.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078294.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078294.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16066"> руины Карнтара</a></td>
-		<td style="text-align: center;"><code>/way The Azure Span:Dragon Isles 68.6 60.3 руины Карнтара</code><br>At the top level of the tallest building, on the top level of the ruins.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16066"> Руины Карнтара</a></td>
+		<td style="text-align: center;"><code>/way The Azure Span:Dragon Isles 68.6 60.3 Руины Карнтара</code><br>At the top level of the tallest building, on the top level of the ruins.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078295.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078295.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16073"> гряда Вактрос</a></td>
-		<td style="text-align: center;"><code>/way The Azure Span:Dragon Isles 74.2 39.4 гряда Вактрос</code><br>Located above the cavern that encompasses the entrance to Vakthros, a little bit to the right, by a frozen river</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16073"> Гряда Вактрос</a></td>
+		<td style="text-align: center;"><code>/way The Azure Span:Dragon Isles 74.2 39.4 Гряда Вактрос</code><br>Located above the cavern that encompasses the entrance to Vakthros, a little bit to the right, by a frozen river</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079309.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079309.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16071"> застава Зелтрак</a></td>
-		<td style="text-align: center;"><code>/way The Azure Span:Dragon Isles 52.8 48.8 застава Зелтрак</code><br>Hidden near the top of a tree overlooking the outpost.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16071"> Застава Зелтрак</a></td>
+		<td style="text-align: center;"><code>/way The Azure Span:Dragon Isles 52.8 48.8 Застава Зелтрак</code><br>Hidden near the top of a tree overlooking the outpost.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078297.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078297.jpg" width="200" /> </a></td>
 	</tbody>
 </table>
@@ -249,11 +249,11 @@
 </p>
 
 <details><summary>Координаты TomTom...</summary>
-<code>/way Thaldraszus 62.4 40.4 академия Алгет'ар<br>
+<code>/way Thaldraszus 62.4 40.4 Академия Алгет'ар<br>
 /way Thaldraszus 49.8 40.2 Алгет'ера<br>
 /way Thaldraszus 52.7 57.4 Геликирский дозор<br>
 /way Thaldraszus 55.6 72.1 Перевал Времени<br>
-/way Thaldraszus 35.5 85.5 ворота Южной крепости<br>
+/way Thaldraszus 35.5 85.5 Ворота Южной крепости<br>
 /way Thaldraszus 46.0 73.0 Пик Грозового Покрова<br>
 /way Thaldraszus 66.0 82.3 Временной Перекресток<br>
 /way Thaldraszus 72.9 69.2 Пик Тальдразуса<br>
@@ -271,8 +271,8 @@
 		<td style="text-align: center;"><b>Location</b></td>
 		<td style="text-align: center;"><b>Скриншот (кликабельный)</b></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16104"> академия Алгет'ар</a></td>
-		<td style="text-align: center;"><code>/way Thaldraszus 62.4 40.4 академия Алгет'ар</code><br>Inside the top level of the tallest tower in the academy. This glyph is located close to the ceiling of the structure, so its not visible until you're under it.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16104"> Академия Алгет'ар</a></td>
+		<td style="text-align: center;"><code>/way Thaldraszus 62.4 40.4 Академия Алгет'ар</code><br>Inside the top level of the tallest tower in the academy. This glyph is located close to the ceiling of the structure, so its not visible until you're under it.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078298.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078298.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16102"> Алгет'ера</a></td>
@@ -287,8 +287,8 @@
 		<td style="text-align: center;"><code>/way Thaldraszus 55.6 72.1 Перевал Времени</code><br>Southwest of the Gelikyr Outpost flight path, near the entrance to the Временной Перекресток area.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079535.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079535.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16100"> ворота Южной крепости</a></td>
-		<td style="text-align: center;"><code>/way Thaldraszus 35.5 85.5 ворота Южной крепости</code><br>Inside the top level of the second highest tower in the area. The <a href="https://www.wowhead.com/beta/npc=194543/magmasworn-trueborn"> Magmasworn Trueborn</a> drakes that fly around the area can knock you off your Dragonriding mount, so this is a dangerous rune to get. Make sure you have goblin gliders ready!</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16100"> Ворота Южной крепости</a></td>
+		<td style="text-align: center;"><code>/way Thaldraszus 35.5 85.5 Ворота Южной крепости</code><br>Inside the top level of the second highest tower in the area. The <a href="https://www.wowhead.com/beta/npc=194543/magmasworn-trueborn"> Magmasworn Trueborn</a> drakes that fly around the area can knock you off your Dragonriding mount, so this is a dangerous rune to get. Make sure you have goblin gliders ready!</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078300.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078300.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16099"> Пик Грозового Покрова</a></td>
