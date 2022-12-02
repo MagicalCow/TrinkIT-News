@@ -7,19 +7,19 @@
 </p>
 
 <details><summary>Координаты TomTom...</summary>
-<code>/way Берега Пробуждения 57.7 55.3 Разрушающаяся арка Жизни<br>
-/way Берега Пробуждения 68.8 46.2 Застава Драконьего Сердца<br>
-/way Берега Пробуждения 58.1 78.7 Анклав Морозной Вспышки<br>
-/way Берега Пробуждения 52.6 17.0 Обсерватория Хранительницы Жизни<br>
-/way Берега Пробуждения 40.9 71.9 Обсидиановый бастион<br>
-/way Берега Пробуждения 21.7 51.4 Обсидиановый Трон<br>
-/way Берега Пробуждения 46.4 52.1 Разливающийся ручей<br>
-/way Берега Пробуждения 54.7 74.1 Вершины Рубиновых Омутов Жизни<br>
-/way Берега Пробуждения 48.7 86.7 Рубиновая застава<br>
-/way Берега Пробуждения 73.2 20.2 Пик Расколотой Чешуи<br>
-/way Берега Пробуждения 74.2 57.5 Постамент Поднебесной обсерватории<br>
-/way Берега Пробуждения 75.1 56.7 Башня Поднебесной обсерватории<br>
-/way Берега Пробуждения 74.8 37.3 Посольство Крылатого Приюта<br>
+<code>/way Берега Пробуждения 57.7 55.3 Разрушающаяся арка Жизни  
+/way Берега Пробуждения 68.8 46.2 Застава Драконьего Сердца  
+/way Берега Пробуждения 58.1 78.7 Анклав Морозной Вспышки  
+/way Берега Пробуждения 52.6 17.0 Обсерватория Хранительницы Жизни  
+/way Берега Пробуждения 40.9 71.9 Обсидиановый бастион  
+/way Берега Пробуждения 21.7 51.4 Обсидиановый Трон  
+/way Берега Пробуждения 46.4 52.1 Разливающийся ручей  
+/way Берега Пробуждения 54.7 74.1 Вершины Рубиновых Омутов Жизни  
+/way Берега Пробуждения 48.7 86.7 Рубиновая застава  
+/way Берега Пробуждения 73.2 20.2 Пик Расколотой Чешуи  
+/way Берега Пробуждения 74.2 57.5 Постамент Поднебесной обсерватории  
+/way Берега Пробуждения 75.1 56.7 Башня Поднебесной обсерватории  
+/way Берега Пробуждения 74.8 37.3 Посольство Крылатого Приюта  
 /cway</code>
 </details>
 
@@ -71,11 +71,11 @@
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077909.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077909.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16668"> Постамент Поднебесной обсерватории</a></td>
-		<td style="text-align: center;"><code>/way Берега Пробуждения 74.2 57.5 Постамент Поднебесной обсерватории</code><br>To the left of the Rostrum of Transformation in Skytop Observatory.<br>This glyph is collected during the introduction quest <a href="https://www.wowhead.com/beta/quest=68798">❗Dragon Glyphs and You</a>.</td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 74.2 57.5 Постамент Поднебесной обсерватории</code><br>To the left of the Rostrum of Transformation in Skytop Observatory.<br>This glyph is collected during the introduction quest <a href="https://www.wowhead.com/ru/quest=68798">❗Драконьи символы</a>.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079530.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079530.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15985"> Башня Поднебесной обсерватории</a></td>
-		<td style="text-align: center;"><code>/way Берега Пробуждения 75.1 56.7 Башня Поднебесной обсерватории</code><br>On top of the tallest tower in the area, the one behind <a href="https://www.wowhead.com/beta/npc=193364/lithragosa"> Lithragosa</a>.</td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 75.1 56.7 Башня Поднебесной обсерватории</code><br>On top of the tallest tower in the area, the one behind <a href="https://www.wowhead.com/ru/npc=193364/"> Литрагоса</a>.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077906.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077906.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15986"> Посольство Крылатого Приюта</a></td>
@@ -93,18 +93,18 @@
 </p>
 
 <details><summary>Координаты TomTom...</summary>
-<code>/way Равнины Он'ары 84.2 77.5 Пик драконьих источников<br>
-/way Равнины Он'ары 30.0 61.2 Изумрудные сады<br>
-/way Равнины Он'ары 29.3 74.5 Вечные курганы<br>
-/way Равнины Он'ары 70.1 86.6 Переправа у речной развилки<br>
-/way Равнины Он'ары 78.4 21.4 Топь Илистого Древа<br>
-/way Равнины Он'ары 47.2 72.3 Зеркало Небес<br>
-/way Равнины Он'ары 30.7 36.1 Аванпост Нокхуд<br>
-/way Равнины Он'ары 57.9 31.2 Ohn'ahra Roost<br>
-/way Равнины Он'ары 57.1 80.1 Ключи Он'ир<br>
-/way Равнины Он'ары 86.4 39.4 Рубеж Русза'тар<br>
-/way Равнины Он'ары 44.5 64.9 Сзар Скилит<br>
-/way Равнины Он'ары 61.5 64.4 Подъем Песни Ветра<br>
+<code>/way Равнины Он'ары 84.2 77.5 Пик драконьих источников  
+/way Равнины Он'ары 30.0 61.2 Изумрудные сады  
+/way Равнины Он'ары 29.3 74.5 Вечные курганы  
+/way Равнины Он'ары 70.1 86.6 Переправа у речной развилки  
+/way Равнины Он'ары 78.4 21.4 Топь Илистого Древа  
+/way Равнины Он'ары 47.2 72.3 Зеркало Небес  
+/way Равнины Он'ары 30.7 36.1 Аванпост Нокхуд  
+/way Равнины Он'ары 57.9 31.2 Ohn'ahra Roost  
+/way Равнины Он'ары 57.1 80.1 Ключи Он'ир  
+/way Равнины Он'ары 86.4 39.4 Рубеж Русза'тар  
+/way Равнины Он'ары 44.5 64.9 Сзар Скилит  
+/way Равнины Он'ары 61.5 64.4 Подъем Песни Ветра  
 /cway</code>
 </details>
 
@@ -174,16 +174,16 @@
 </p>
 
 <details><summary>Координаты TomTom...</summary>
-<code>/way The Лазурный Простор:Dragon Isles 39.3 63.0 Лазурные архивы<br>
-/way The Лазурный Простор:Dragon Isles 10.6 35.7 Лощина Бурошкуров<br>
-/way The Лазурный Простор:Dragon Isles 26.7 31.6 Пещера Речного Клыка<br>
-/way The Лазурный Простор:Dragon Isles 56.7 16.0 Обрушенная тропа<br>
-/way The Лазурный Простор:Dragon Isles 60.6 70.0 Имбу<br>
-/way The Лазурный Простор:Dragon Isles 67.6 29.1 Щит Ронина<br>
-/way The Лазурный Простор:Dragon Isles 70.5 46.2 Затерянные руины<br>
-/way The Лазурный Простор:Dragon Isles 68.6 60.3 Руины Карнтара<br>
-/way The Лазурный Простор:Dragon Isles 72.4 39.4 Гряда Вактрос<br>
-/way The Лазурный Простор:Dragon Isles 52.8 48.8 Застава Зелтрак<br>
+<code>/way The Лазурный Простор:Dragon Isles 39.3 63.0 Лазурные архивы  
+/way The Лазурный Простор:Dragon Isles 10.6 35.7 Лощина Бурошкуров  
+/way The Лазурный Простор:Dragon Isles 26.7 31.6 Пещера Речного Клыка  
+/way The Лазурный Простор:Dragon Isles 56.7 16.0 Обрушенная тропа  
+/way The Лазурный Простор:Dragon Isles 60.6 70.0 Имбу  
+/way The Лазурный Простор:Dragon Isles 67.6 29.1 Щит Ронина  
+/way The Лазурный Простор:Dragon Isles 70.5 46.2 Затерянные руины  
+/way The Лазурный Простор:Dragon Isles 68.6 60.3 Руины Карнтара  
+/way The Лазурный Простор:Dragon Isles 72.4 39.4 Гряда Вактрос  
+/way The Лазурный Простор:Dragon Isles 52.8 48.8 Застава Зелтрак  
 /cway</code>
 </details>
 
@@ -249,17 +249,17 @@
 </p>
 
 <details><summary>Координаты TomTom...</summary>
-<code>/way Тальдразус 62.4 40.4 Академия Алгет'ар<br>
-/way Тальдразус 49.8 40.2 Алгет'ера<br>
-/way Тальдразус 52.7 57.4 Геликирский дозор<br>
-/way Тальдразус 55.6 72.1 Перевал Времени<br>
-/way Тальдразус 35.5 85.5 Ворота Южной крепости<br>
-/way Тальдразус 46.0 73.0 Пик Грозового Покрова<br>
-/way Тальдразус 66.0 82.3 Временной Перекресток<br>
-/way Тальдразус 72.9 69.2 Пик Тальдразуса<br>
-/way Тальдразус 61.5 56.6 Тирхолд<br>
-/way Вальдраккен 58.7 38.1 Вальдраккен<br>
-/way Тальдразус 72.4 51.7 Хранилище Воплощений<br>
+<code>/way Тальдразус 62.4 40.4 Академия Алгет'ар  
+/way Тальдразус 49.8 40.2 Алгет'ера  
+/way Тальдразус 52.7 57.4 Геликирский дозор  
+/way Тальдразус 55.6 72.1 Перевал Времени  
+/way Тальдразус 35.5 85.5 Ворота Южной крепости  
+/way Тальдразус 46.0 73.0 Пик Грозового Покрова  
+/way Тальдразус 66.0 82.3 Временной Перекресток  
+/way Тальдразус 72.9 69.2 Пик Тальдразуса  
+/way Тальдразус 61.5 56.6 Тирхолд  
+/way Вальдраккен 58.7 38.1 Вальдраккен  
+/way Тальдразус 72.4 51.7 Хранилище Воплощений  
 /way Тальдразус 67.0 11.7 Тайный склеп
 /cway</code>
 </details>
@@ -288,7 +288,7 @@
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079535.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079535.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16100"> Ворота Южной крепости</a></td>
-		<td style="text-align: center;"><code>/way Тальдразус 35.5 85.5 Ворота Южной крепости</code><br>Inside the top level of the second highest tower in the area. The <a href="https://www.wowhead.com/beta/npc=194543/magmasworn-trueborn"> Magmasworn Trueborn</a> drakes that fly around the area can knock you off your Dragonriding mount, so this is a dangerous rune to get. Make sure you have goblin gliders ready!</td>
+		<td style="text-align: center;"><code>/way Тальдразус 35.5 85.5 Ворота Южной крепости</code><br>Inside the top level of the second highest tower in the area. The <a href="https://www.wowhead.com/ru/npc=194543"> Изначальный магмарожденный</a> drakes that fly around the area can knock you off your Dragonriding mount, so this is a dangerous rune to get. Make sure you have goblin gliders ready!</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078300.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078300.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16099"> Пик Грозового Покрова</a></td>
