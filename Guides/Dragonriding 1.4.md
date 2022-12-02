@@ -13,12 +13,12 @@
 /way Берега Пробуждения 52.6 17.0 Обсерватория Хранительницы Жизни<br>
 /way Берега Пробуждения 40.9 71.9 Обсидиановый бастион<br>
 /way Берега Пробуждения 21.7 51.4 Обсидиановый Трон<br>
-/way Берега Пробуждения 46.4 52.1 Overflowing Spring<br>
-/way Берега Пробуждения 54.7 74.1 Ruby Life Pools<br>
+/way Берега Пробуждения 46.4 52.1 Разливающийся ручей<br>
+/way Берега Пробуждения 54.7 74.1 Вершины Рубиновых Омутов Жизни<br>
 /way Берега Пробуждения 48.7 86.7 Рубиновая застава<br>
 /way Берега Пробуждения 73.2 20.2 Пик Расколотой Чешуи<br>
-/way Берега Пробуждения 74.2 57.5 Skytop Rostrum<br>
-/way Берега Пробуждения 75.1 56.7 Skytop Tower<br>
+/way Берега Пробуждения 74.2 57.5 Постамент Поднебесной обсерватории<br>
+/way Берега Пробуждения 75.1 56.7 Башня Поднебесной обсерватории<br>
 /way Берега Пробуждения 74.8 37.3 Посольство Крылатого Приюта<br>
 /cway</code>
 </details>
@@ -26,8 +26,8 @@
 <table class="grid">
 	<tbody>
 	</tr>
-		<td style="text-align: center;"><b>Dragon Glyph</b></td>
-		<td style="text-align: center;"><b>Location</b></td>
+		<td style="text-align: center;"><b>Символ</b></td>
+		<td style="text-align: center;"><b>Расположение</b></td>
 		<td style="text-align: center;"><b>Скриншот (кликабельный)</b></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15991"> Разрушающаяся арка Жизни</a></td>
@@ -54,12 +54,12 @@
 		<td style="text-align: center;"><code>/way Берега Пробуждения 21.7 51.4 Обсидиановый Трон</code><br>On top of the lava waterfall that flows through the Обсидиановый Трон. This is an easy flight if started by the Обсидиановый Трон flight path, needing only a few Vigor to climb to the north. Be careful to not fall into the lava!</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077912.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077912.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15989"> Overflowing Spring</a></td>
-		<td style="text-align: center;"><code>/way Берега Пробуждения 46.4 52.1 Overflowing Spring</code><br>On top of a mountain overlooking the spring. Разливающийся ручей itself is located by a tall mountainous area.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15989"> Разливающийся ручей</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 46.4 52.1 Разливающийся ручей</code><br>On top of a mountain overlooking the spring. Разливающийся ручей itself is located by a tall mountainous area.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077911.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077911.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15988"> Ruby Life Pools</a></td>
-		<td style="text-align: center;"><code>/way Берега Пробуждения 54.7 74.1 Ruby Life Pools</code><br>On top of a mountain overlooking the Life Pools, just south of the Ruby Life Pools flight path.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15988"> Вершины Рубиновых Омутов Жизни</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 54.7 74.1 Вершины Рубиновых Омутов Жизни</code><br>On top of a mountain overlooking the Life Pools, just south of the Вершины Рубиновых Омутов Жизни flight path.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077907.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077907.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16670"> Рубиновая застава</a></td>
@@ -71,11 +71,11 @@
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077909.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077909.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16668"> Постамент Поднебесной обсерватории</a></td>
-		<td style="text-align: center;"><code>/way Берега Пробуждения 74.2 57.5 Skytop Rostrum</code><br>To the left of the Rostrum of Transformation in Skytop Observatory.<br>This glyph is collected during the introduction quest <a href="https://www.wowhead.com/beta/quest=68798">❗Dragon Glyphs and You</a>.</td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 74.2 57.5 Постамент Поднебесной обсерватории</code><br>To the left of the Rostrum of Transformation in Skytop Observatory.<br>This glyph is collected during the introduction quest <a href="https://www.wowhead.com/beta/quest=68798">❗Dragon Glyphs and You</a>.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079530.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079530.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15985"> Башня Поднебесной обсерватории</a></td>
-		<td style="text-align: center;"><code>/way Берега Пробуждения 75.1 56.7 Skytop Tower</code><br>On top of the tallest tower in the area, the one behind <a href="https://www.wowhead.com/beta/npc=193364/lithragosa"> Lithragosa</a>.</td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 75.1 56.7 Башня Поднебесной обсерватории</code><br>On top of the tallest tower in the area, the one behind <a href="https://www.wowhead.com/beta/npc=193364/lithragosa"> Lithragosa</a>.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077906.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077906.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15986"> Посольство Крылатого Приюта</a></td>
@@ -86,7 +86,7 @@
 
 * * *
 
-<h3>Равнины Он'ары Dragon Glyph Locations</h3>
+<h3>Равнины Он'ары</h3>
 
 <p align="center">
 <a href="https://www.wowhead.com/maps?data=13645:842775300612293745701866784214472723307361579312571801864394445649615644"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-09.jpg?raw=true" width="500"></a><br>
@@ -95,7 +95,7 @@
 <details><summary>Координаты TomTom...</summary>
 <code>/way Равнины Он'ары 84.2 77.5 Пик драконьих источников<br>
 /way Равнины Он'ары 30.0 61.2 Изумрудные сады<br>
-/way Равнины Он'ары 29.3 74.5 Eternal Kurgans<br>
+/way Равнины Он'ары 29.3 74.5 Вечные курганы<br>
 /way Равнины Он'ары 70.1 86.6 Переправа у речной развилки<br>
 /way Равнины Он'ары 78.4 21.4 Топь Илистого Древа<br>
 /way Равнины Он'ары 47.2 72.3 Зеркало Небес<br>
@@ -111,8 +111,8 @@
 <table class="grid">
 	<tbody>
 	</tr>
-		<td style="text-align: center;"><b>Dragon Glyph</b></td>
-		<td style="text-align: center;"><b>Location</b></td>
+		<td style="text-align: center;"><b>Символ</b></td>
+		<td style="text-align: center;"><b>Расположение</b></td>
 		<td style="text-align: center;"><b>Скриншот (кликабельный)</b></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16061"> Пик драконьих источников</a></td>
@@ -123,8 +123,8 @@
 		<td style="text-align: center;"><code>/way Равнины Он'ары 30.0 61.2 Изумрудные сады</code><br>Atop the waterfall that flows through Merithra's Watch. This glyph can be a bit tricky to find as it is not located in the actual Изумрудные сады subzone.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077915.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077915.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16057"> Eternal Kurgans</a></td>
-		<td style="text-align: center;"><code>/way Равнины Он'ары 29.3 74.5 Eternal Kurgans</code><br>High in the sky between the 2 mountains on the tallest portion of the area. Can be a bit tricky to get this glyph as there are no nearby stops for Vigor as most glyphs do.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16057"> Вечные курганы</a></td>
+		<td style="text-align: center;"><code>/way Равнины Он'ары 29.3 74.5 Вечные курганы</code><br>High in the sky between the 2 mountains on the tallest portion of the area. Can be a bit tricky to get this glyph as there are no nearby stops for Vigor as most glyphs do.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077918.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077918.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16672"> Переправа у речной развилки</a></td>
@@ -167,19 +167,19 @@
 
 * * *
 
-<h3>Лазурный Простор Dragon Glyph Locations</h3>
+<h3>Лазурный Простор</h3>
 
 <p align="center">
 <a href="https://www.wowhead.com/ru/maps?data=13646:393630106357267316567160606700676291705462686603724394528488"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-10.jpg?raw=true" width="500"></a><br>
 </p>
 
 <details><summary>Координаты TomTom...</summary>
-<code>/way The Лазурный Простор:Dragon Isles 39.3 63.0 Azure Archive<br>
+<code>/way The Лазурный Простор:Dragon Isles 39.3 63.0 Лазурные архивы<br>
 /way The Лазурный Простор:Dragon Isles 10.6 35.7 Лощина Бурошкуров<br>
 /way The Лазурный Простор:Dragon Isles 26.7 31.6 Пещера Речного Клыка<br>
-/way The Лазурный Простор:Dragon Isles 56.7 16.0 Fallen Course<br>
+/way The Лазурный Простор:Dragon Isles 56.7 16.0 Обрушенная тропа<br>
 /way The Лазурный Простор:Dragon Isles 60.6 70.0 Имбу<br>
-/way The Лазурный Простор:Dragon Isles 67.6 29.1 Kalthraz Fortress<br>
+/way The Лазурный Простор:Dragon Isles 67.6 29.1 Щит Ронина<br>
 /way The Лазурный Простор:Dragon Isles 70.5 46.2 Затерянные руины<br>
 /way The Лазурный Простор:Dragon Isles 68.6 60.3 Руины Карнтара<br>
 /way The Лазурный Простор:Dragon Isles 72.4 39.4 Гряда Вактрос<br>
@@ -190,12 +190,12 @@
 <table class="grid">
 	<tbody>
 	</tr>
-		<td style="text-align: center;"><b>Dragon Glyph</b></td>
-		<td style="text-align: center;"><b>Location</b></td>
+		<td style="text-align: center;"><b>Символ</b></td>
+		<td style="text-align: center;"><b>Расположение</b></td>
 		<td style="text-align: center;"><b>Скриншот (кликабельный)</b></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16065"> Azure Archive</a></td>
-		<td style="text-align: center;"><code>/way The Лазурный Простор:Dragon Isles 39.3 63.0 Azure Archive</code><br>Located by the top ring of the Лазурные архивы area.. Easily reachable by climbing to the top level of the Oculus structure in the area.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16065"> Лазурные архивы</a></td>
+		<td style="text-align: center;"><code>/way The Лазурный Простор:Dragon Isles 39.3 63.0 Лазурные архивы</code><br>Located by the top ring of the Лазурные архивы area.. Easily reachable by climbing to the top level of the Oculus structure in the area.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079310.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079310.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16068"> Лощина Бурошкуров</a></td>
@@ -210,16 +210,16 @@
 		<td style="text-align: center;"><code>/way The Лазурный Простор:Dragon Isles 26.7 31.6 Пещера Речного Клыка</code><br>At the top of a broken tree overlooking the area.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079305.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079305.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16673"> Fallen Course</a></td>
-		<td style="text-align: center;"><code>/way The Лазурный Простор:Dragon Isles 56.7 16.0 Fallen Course</code><br>Hovering the bridge that serves as the main way between between Лазурный Простор and Тальдразус, on the Лазурный Простор side.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16673"> Обрушенная тропа</a></td>
+		<td style="text-align: center;"><code>/way The Лазурный Простор:Dragon Isles 56.7 16.0 Обрушенная тропа</code><br>Hovering the bridge that serves as the main way between between Лазурный Простор and Тальдразус, on the Лазурный Простор side.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079533.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079533.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16070"> Имбу</a></td>
 		<td style="text-align: center;"><code>/way The Лазурный Простор:Dragon Isles 60.6 70.0 Имбу</code><br>Below the waterfall that drops off of the main area in Имбу. Hard to see unless close to the waterfall's drop. Имбу is an area full of elites, so although getting to the glyph is easy, getting back up from the waterfall can be a bit hard.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078292.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078292.jpg" width="200" /> </a></td>
 	</tr>
-		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16072"> Kalthraz Fortress</a></td>
-		<td style="text-align: center;"><code>/way The Лазурный Простор:Dragon Isles 67.6 29.1 Kalthraz Fortress</code><br>Inside the top level of the fortress. This glyph is notably hard to see and can only be accessed by entering from one of the sides.</td>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16072"> Щит Ронина</a></td>
+		<td style="text-align: center;"><code>/way The Лазурный Простор:Dragon Isles 67.6 29.1 Щит Ронина</code><br>Inside the top level of the fortress. This glyph is notably hard to see and can only be accessed by entering from one of the sides.</td>
 		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078293.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078293.jpg" width="200" /> </a></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16067"> Затерянные руины</a></td>
@@ -242,7 +242,7 @@
 
 * * *
 
-<h3>Тальдразус Dragon Glyph Locations</h3>
+<h3>Тальдразус</h3>
 
 <p align="center">
 <a href="https://www.wowhead.com/ru/maps?data=13647:624404498402527574556721355855460730660823729692615566587381724517670117"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-11.jpg?raw=true" width="500"></a><br>
@@ -267,8 +267,8 @@
 <table class="grid">
 	<tbody>
 	</tr>
-		<td style="text-align: center;"><b>Dragon Glyph</b></td>
-		<td style="text-align: center;"><b>Location</b></td>
+		<td style="text-align: center;"><b>Символ</b></td>
+		<td style="text-align: center;"><b>Расположение</b></td>
 		<td style="text-align: center;"><b>Скриншот (кликабельный)</b></td>
 	</tr>
 		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16104"> Академия Алгет'ар</a></td>
