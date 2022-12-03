@@ -1,7 +1,7 @@
 # Гайд по полетам на драконах
 
 <p align="center">
-<img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-01.jpg?raw=true" width="700" border="2" />
+<img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-01.jpg?raw=true" width="700" border="2" />
 </p> 
 
 Одной из новых систем появившихся в Dragonflight станут полеты на драконах. Радикальный пересмотр механик полета игры, позволяющий приблизить полеты к реалистичным (насколько может быть реалистичным полет на воображаемых драконах) условиям, благодаря использованию векторов движения, балансировкой в наборе и сбросе скорости и способностям, которые можно использовать в особых условиях.
@@ -148,7 +148,7 @@
 Для тех кто не очень хорошо себя чувствует на резких поворотах - близзы сделали специальные пункты в настройках. Их можно найти в **Esc > Параметры > Спец.возможности > Общее**, или просто вбив *"Укачивание"* в поиске по настройкам.  
 
 <p align="center">
-<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-02.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-02.jpg?raw=true" width="500"></a>
+<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-02.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-02.jpg?raw=true" width="500"></a>
 </p>
 
 <a name="P2.0"/>
@@ -169,19 +169,19 @@
 
 Пока что на Драконьих островах имеется 4 Постамента трансформации:
 <p align="center">
-<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-03.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-03.jpg?raw=true" width="500"></a><br>
+<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-03.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-03.jpg?raw=true" width="500"></a><br>
 <i>/way Берега Пробуждения 74.0 58.1 Башня Поднебесной обсерватории</i>
 </p>
 <p align="center">
-<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-04.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-04.jpg?raw=true" width="500"></a><br>
+<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-04.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-04.jpg?raw=true" width="500"></a><br>
 <i>/way Равнины Он'ары 84.6 35.5 Рубеж Русза'тар</i>
 </p>
 <p align="center">
-<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-05.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-05.jpg?raw=true" width="500"></a><br>
+<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-05.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-05.jpg?raw=true" width="500"></a><br>
 <i>/way Лазурный Простор 63.6 13.2 Дозор Туманного каньона</i>
 </p>
 <p align="center">
-<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-06.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-06.jpg?raw=true" width="500"></a><br>
+<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-06.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-06.jpg?raw=true" width="500"></a><br>
 <i>/way Вальдраккен 25.1 50.5 Тальдразус</i>
 </p>
 
@@ -208,7 +208,7 @@
 Ваши альты смогут получить уже выученные таланты во время квеста [❗Adventuring in the Dragon Isles](https://www.wowhead.com/ru/quest=72293) и включить их, заплатив <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/> Тлеющими драконьими символами</a>.
 
 <p align="center">
-<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-07.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-07.jpg?raw=true" width="500"></a>
+<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-07.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-07.jpg?raw=true" width="500"></a>
 </p>
 
 Облет всех символов займет порядка <b>30-60 минут</b>.
