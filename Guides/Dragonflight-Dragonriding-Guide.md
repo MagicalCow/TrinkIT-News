@@ -320,10 +320,9 @@
 	</tbody>
 </table>
 
-
 ## Я аудиовизуал, не хочу читать
 Тогда представляю тебе небольшой видеогайд от Бусени:
-
+https://youtu.be/tkipB58bxrM
 </p>
 <p align="center">
 <a href="https://youtu.be/hCrUPNMxJn8"><img src="https://i.ytimg.com/vi_webp/hCrUPNMxJn8/maxresdefault.webp" width="500"></a><br>
