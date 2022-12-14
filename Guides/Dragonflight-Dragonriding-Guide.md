@@ -68,7 +68,7 @@
 - В некоторых местах островов, особенно на возвышенностях вы можете найти небольшие ураганы. Это восходящие потоки и они будут подбрасывать вас вверх.  
 
 <p align="center">
-<a href="https://wow.zamimg.com/uploads/screenshots/normal/1085477.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1085477.jpg" width="500"></a>
+<a href="https://wow.zamimg.com/uploads/screenshots/normal/1085477.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1085477.jpg" width="90%"></a>
 </p>
 
 
@@ -78,7 +78,7 @@
 Во время полета ваши панельки заменятся на панельку драконьих абилок, на ней, по мере прокачки, появится 4 абилки.
 
 <p align="center">
-<img src="https://wow.zamimg.com/uploads/screenshots/normal/1085464.png" width="500" border="2" />
+<img src="https://wow.zamimg.com/uploads/screenshots/normal/1085464.png" width="90%" border="2" />
 </p> 
 
 <table class="grid">
@@ -123,7 +123,7 @@
 - Но если вы сможете поддерживать высокую скорость достаточно долго то дракон начнет подсвечиваться синими частицами и получит бафф <a href="https://www.wowhead.com/ru/spell=383366"><img src="https://wow.zamimg.com/images/wow/icons/large/ability_dragonriding_thrilloftheskies01.jpg" width="13" height="13"/>Азарт небес</a>, который восполняет 1 единицу бодрости каждые 15 секунд, пока продолжается полет на высокой скорости.
 
 <p align="center">
-<img src="https://wow.zamimg.com/uploads/screenshots/normal/1085476.png" width="500" border="2" />
+<img src="https://wow.zamimg.com/uploads/screenshots/normal/1085476.png" width="90%" border="2" />
 </p> 
 
 <a name="P1.6"/>
@@ -137,9 +137,9 @@
 - **Синяя подсветка и отдаление камеры** показывает максимальную скорость полета, обычно такие скорости возможны только на гонках или на прокачанных драконах.
 
 <p align="center">
-<a href="https://wow.zamimg.com/uploads/screenshots/normal/1085461.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1085461.jpg" width="500"></a>
-<a href="https://wow.zamimg.com/uploads/screenshots/normal/1085460.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1085460.jpg" width="500"></a>
-<a href="https://wow.zamimg.com/uploads/screenshots/normal/1085462.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1085462.jpg" width="500"></a>
+<a href="https://wow.zamimg.com/uploads/screenshots/normal/1085461.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1085461.jpg" width="90%"></a>
+<a href="https://wow.zamimg.com/uploads/screenshots/normal/1085460.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1085460.jpg" width="90%"></a>
+<a href="https://wow.zamimg.com/uploads/screenshots/normal/1085462.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1085462.jpg" width="90%"></a>
 </p> 
 
 <a name="P1.7"/>
@@ -148,7 +148,7 @@
 Для тех кто не очень хорошо себя чувствует на резких поворотах - близзы сделали специальные пункты в настройках. Их можно найти в **Esc > Параметры > Спец.возможности > Общее**, или просто вбив *"Укачивание"* в поиске по настройкам.  
 
 <p align="center">
-<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-02.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-02.jpg?raw=true" width="500"></a>
+<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-02.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-02.jpg?raw=true" width="90%"></a>
 </p>
 
 <a name="P2.0"/>
@@ -157,31 +157,31 @@
 Да, да, вы сможете кастомизировать свою ласточку. Дракон меняет внешность и украшения в таком же интерфейсе который используют парикмахеры
 
 <p align="center">
-<a href="https://wow.zamimg.com/uploads/screenshots/normal/1085872.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1085872.jpg" width="500"></a>
+<a href="https://wow.zamimg.com/uploads/screenshots/normal/1085872.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1085872.jpg" width="90%"></a>
 </p>
 
 Начинается кастомизация с квеста [Новая пара рогов](https://www.wowhead.com/ru/quest=68797). Квест покажет вам как пользоваться Постамент трансформации, специальными гаражами для вашей приоры. Все опции кастомизации привязываются к аккаунту и будут доступны альтам. Вы получите некоторый стартовый набор изменений и далее вы сможете получать специальные **Манускрипты наблюдений за драконами**. Эти манускрипты будут обучать вас другим опциям внешности драков, например <a href="https://www.wowhead.com/ru/item=197010"><img src="https://wow.zamimg.com/images/wow/icons/large/inv_glyph_majordruid.jpg" width="13" height="13"/>Горный вивернодракон: красная чешуя</a> откроет вам **Красную чешую** для вашего <a href="https://www.wowhead.com/ru/item=194521"><img src="https://wow.zamimg.com/images/wow/icons/large/inv_companionwyvern.jpg" width="13" height="13"/>Горного вивернодракона</a>.  
 Манускрипты можно будет находить во время многих активностей, таких как запинывание рарников, прохождения данжей, сайдквестов, покупать за известность или репу и даже крафтить. По мере выхода патчей Dragonflight мы будем пополнять список этих манускриптов а пока вы можете потюнить ласточку в <a href="https://www.wowhead.com/dressing-room#fzd80z0zJ89c8ne8VZp8nc8VWX8nz8VWt8nq8VXx8nn8VYA8jK8VSY8nk8VXd8nj8VYf8no8VXq8nR8VXN8nm8VXc8nV8VXo8ng8VZA8np8VYV8ns808nb8VXC8nf808nw8VXO8nL8VYz8nv8V1q8jO8VSW8tW8RAB8Er808na8VXT8tl808nd8VXD8nr877I">примерочной вовхеда</a>  
 
 <p align="center">
-<a href="https://wow.zamimg.com/uploads/screenshots/normal/1085873.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1085873.jpg" width="500"></a>
+<a href="https://wow.zamimg.com/uploads/screenshots/normal/1085873.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1085873.jpg" width="90%"></a>
 </p>
 
 Пока что на Драконьих островах имеется 4 Постамента трансформации:
 <p align="center">
-<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-03.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-03.jpg?raw=true" width="500"></a><br>
+<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-03.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-03.jpg?raw=true" width="90%"></a><br>
 <i>/way Берега Пробуждения 74.0 58.1 Башня Поднебесной обсерватории</i>
 </p>
 <p align="center">
-<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-04.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-04.jpg?raw=true" width="500"></a><br>
+<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-04.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-04.jpg?raw=true" width="90%"></a><br>
 <i>/way Равнины Он'ары 84.6 35.5 Рубеж Русза'тар</i>
 </p>
 <p align="center">
-<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-05.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-05.jpg?raw=true" width="500"></a><br>
+<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-05.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-05.jpg?raw=true" width="90%"></a><br>
 <i>/way Лазурный Простор 63.6 13.2 Дозор Туманного каньона</i>
 </p>
 <p align="center">
-<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-06.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-06.jpg?raw=true" width="500"></a><br>
+<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-06.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-06.jpg?raw=true" width="90%"></a><br>
 <i>/way Вальдраккен 25.1 50.5 Тальдразус</i>
 </p>
 
@@ -195,9 +195,9 @@
 Таланты драконов это вспомогательная система для полетов, такая же как и таланты вашего чара помогают ему в бою. Таланты привязаны к учетке, так что открывать их на альтах не придется. Путешествуя по островам вы пролетите через 48 Драконьих символов. Пролет сквозь такой символ вы получите <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/> Тлеющие драконьи символы</a>, валюту, которой вы будете покупать таланты. Система талантов привязана к учетке так что процедуру сбора нужно будет выполнить только один раз.
 
 <p align="center">
-<a href="https://wow.zamimg.com/uploads/screenshots/normal/1079530.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079530.jpg" width="500"></a>
-<a href="https://wow.zamimg.com/uploads/screenshots/normal/1077904.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077904.jpg" width="500"></a>
-<a href="https://wow.zamimg.com/uploads/screenshots/normal/1077907.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077907.jpg" width="500"></a>
+<a href="https://wow.zamimg.com/uploads/screenshots/normal/1079530.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079530.jpg" width="45%"></a>
+<a href="https://wow.zamimg.com/uploads/screenshots/normal/1077904.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077904.jpg" width="45%"></a>
+<a href="https://wow.zamimg.com/uploads/screenshots/normal/1077907.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077907.jpg" width="45%"></a>
 </p>
 
 <a name="P3.2"/>
@@ -208,7 +208,7 @@
 Ваши альты смогут получить уже выученные таланты во время квеста [❗Adventuring in the Dragon Isles](https://www.wowhead.com/ru/quest=72293) и включить их, заплатив <a href="https://www.wowhead.com/ru/currency=2045"><img src="https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_aqir_hieroglyphic.jpg" width="13" height="13"/> Тлеющими драконьими символами</a>.
 
 <p align="center">
-<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-07.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-07.jpg?raw=true" width="500"></a>
+<a href="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-07.jpg?raw=true"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-07.jpg?raw=true" width="45%"></a>
 </p>
 
 Облет всех символов займет порядка <b>30-60 минут</b>.
@@ -325,7 +325,7 @@
 <h3>Берега пробуждения</h3>
 
 <p align="center">
-<a href="https://www.wowhead.com/ru/maps?data=13644:577553688462581787526170409719217514464521547741487867732202742575751567748373"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-08.jpg?raw=true" width="500"></a><br>
+<a href="https://www.wowhead.com/ru/maps?data=13644:577553688462581787526170409719217514464521547741487867732202742575751567748373"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-08.jpg?raw=true" width="90%"></a><br>
 </p>
 
 <details><summary>Координаты TomTom...</summary>
@@ -412,7 +412,7 @@
 <h3>Равнины Он'ары</h3>
 
 <p align="center">
-<a href="https://www.wowhead.com/maps?data=13645:842775300612293745701866784214472723307361579312571801864394445649615644"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-09.jpg?raw=true" width="500"></a><br>
+<a href="https://www.wowhead.com/maps?data=13645:842775300612293745701866784214472723307361579312571801864394445649615644"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-09.jpg?raw=true" width="90%"></a><br>
 </p>
 
 <details><summary>Координаты TomTom...</summary>
@@ -495,7 +495,7 @@
 <h3>Лазурный Простор</h3>
 
 <p align="center">
-<a href="https://www.wowhead.com/ru/maps?data=13646:393630106357267316567160606700676291705462686603724394528488"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-10.jpg?raw=true" width="500"></a><br>
+<a href="https://www.wowhead.com/ru/maps?data=13646:393630106357267316567160606700676291705462686603724394528488"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-10.jpg?raw=true" width="90%"></a><br>
 </p>
 
 <details><summary>Координаты TomTom...</summary>
@@ -572,7 +572,7 @@
 <h3>Тальдразус</h3>
 
 <p align="center">
-<a href="https://www.wowhead.com/ru/maps?data=13647:624404498402527574556721355855460730660823729692615566587381724517670117"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-11.jpg?raw=true" width="500"></a><br>
+<a href="https://www.wowhead.com/ru/maps?data=13647:624404498402527574556721355855460730660823729692615566587381724517670117"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-11.jpg?raw=true" width="90%"></a><br>
 </p>
 
 <details><summary>Координаты TomTom...</summary>
@@ -710,11 +710,11 @@
 Тогда представляю тебе небольшой видеогайд по механике полетов от Бусени:
 </p>
 <p align="center">
-<a href="https://youtu.be/hCrUPNMxJn8"><img src="https://i.ytimg.com/vi_webp/hCrUPNMxJn8/maxresdefault.webp" width="500"></a><br>
+<a href="https://youtu.be/hCrUPNMxJn8"><img src="https://i.ytimg.com/vi_webp/hCrUPNMxJn8/maxresdefault.webp" width="90%"></a><br>
 </p>
 
 А вот тут можно пролететь по видео все символы:
 </p>
 <p align="center">
-<a href="https://youtu.be/tkipB58bxrM"><img src="https://i.ytimg.com/vi_webp/hCrUPNMxJn8/maxresdefault.webp" width="500"></a><br>
+<a href="https://youtu.be/tkipB58bxrM"><img src="https://i.ytimg.com/vi_webp/hCrUPNMxJn8/maxresdefault.webp" width="90%"></a><br>
 </p>
