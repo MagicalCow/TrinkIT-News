@@ -19,6 +19,7 @@
 <h2>Жетон WoW</h2>
   <b>🇪🇺↓<a href="https://wowtokenprices.com/EU">263,691g<a></b><br>
   🇺🇸↓<a href="https://wowtokenprices.com/US">168,277g<a><br>
-
-Арт: <a href="https://www.artstation.com/artwork/6BDr0">Cult Apothecary</a> от <a href="https://www.artstation.com/mafayon">Paul Mafayon</a>
-\#новости \#виклики \#события
+<br>
+<hr>
+Арт: <a href="https://www.artstation.com/artwork/6BDr0">Cult Apothecary</a> от <a href="https://www.artstation.com/mafayon">Paul Mafayon</a><br>
+#новости #виклики #события

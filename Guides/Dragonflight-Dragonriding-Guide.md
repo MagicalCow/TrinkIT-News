@@ -160,7 +160,7 @@
 <a href="https://wow.zamimg.com/uploads/screenshots/normal/1085872.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1085872.jpg" width="500"></a>
 </p>
 
-Начинается кастомизация с квеста [Новые рога](https://www.wowhead.com/ru/quest=68797). Квест покажет вам как пользоваться Постамент трансформации, специальными гаражами для вашей приоры. Все опции кастомизации привязываются к аккаунту и будут доступны альтам. Вы получите некоторый стартовый набор изменений и далее вы сможете получать специальные **Манускрипты наблюдений за драконами**. Эти манускрипты будут обучать вас другим опциям внешности драков, например <a href="https://www.wowhead.com/ru/item=197010"><img src="https://wow.zamimg.com/images/wow/icons/large/inv_glyph_majordruid.jpg" width="13" height="13"/>Горный вивернодракон: красная чешуя</a> откроет вам **Красную чешую** для вашего <a href="https://www.wowhead.com/ru/item=194521"><img src="https://wow.zamimg.com/images/wow/icons/large/inv_companionwyvern.jpg" width="13" height="13"/>Горного вивернодракона</a>.  
+Начинается кастомизация с квеста [Новая пара рогов](https://www.wowhead.com/ru/quest=68797). Квест покажет вам как пользоваться Постамент трансформации, специальными гаражами для вашей приоры. Все опции кастомизации привязываются к аккаунту и будут доступны альтам. Вы получите некоторый стартовый набор изменений и далее вы сможете получать специальные **Манускрипты наблюдений за драконами**. Эти манускрипты будут обучать вас другим опциям внешности драков, например <a href="https://www.wowhead.com/ru/item=197010"><img src="https://wow.zamimg.com/images/wow/icons/large/inv_glyph_majordruid.jpg" width="13" height="13"/>Горный вивернодракон: красная чешуя</a> откроет вам **Красную чешую** для вашего <a href="https://www.wowhead.com/ru/item=194521"><img src="https://wow.zamimg.com/images/wow/icons/large/inv_companionwyvern.jpg" width="13" height="13"/>Горного вивернодракона</a>.  
 Манускрипты можно будет находить во время многих активностей, таких как запинывание рарников, прохождения данжей, сайдквестов, покупать за известность или репу и даже крафтить. По мере выхода патчей Dragonflight мы будем пополнять список этих манускриптов а пока вы можете потюнить ласточку в <a href="https://www.wowhead.com/dressing-room#fzd80z0zJ89c8ne8VZp8nc8VWX8nz8VWt8nq8VXx8nn8VYA8jK8VSY8nk8VXd8nj8VYf8no8VXq8nR8VXN8nm8VXc8nV8VXo8ng8VZA8np8VYV8ns808nb8VXC8nf808nw8VXO8nL8VYz8nv8V1q8jO8VSW8tW8RAB8Er808na8VXT8tl808nd8VXD8nr877I">примерочной вовхеда</a>  
 
 <p align="center">
@@ -320,10 +320,401 @@
 	</tbody>
 </table>
 
+<h2>Расположение драконьих символов</h2>
+
+<h3>Берега пробуждения</h3>
+
+<p align="center">
+<a href="https://www.wowhead.com/ru/maps?data=13644:577553688462581787526170409719217514464521547741487867732202742575751567748373"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-08.jpg?raw=true" width="500"></a><br>
+</p>
+
+<details><summary>Координаты TomTom...</summary>
+<pre>
+/way Берега Пробуждения 57.7 55.3 Разрушающаяся арка Жизни  
+/way Берега Пробуждения 68.8 46.2 Застава Драконьего Сердца  
+/way Берега Пробуждения 58.1 78.7 Анклав Морозной Вспышки  
+/way Берега Пробуждения 52.6 17.0 Обсерватория Хранительницы Жизни  
+/way Берега Пробуждения 40.9 71.9 Обсидиановый бастион  
+/way Берега Пробуждения 21.7 51.4 Обсидиановый Трон  
+/way Берега Пробуждения 46.4 52.1 Разливающийся ручей  
+/way Берега Пробуждения 54.7 74.1 Вершины Рубиновых Омутов Жизни  
+/way Берега Пробуждения 48.7 86.7 Рубиновая застава  
+/way Берега Пробуждения 73.2 20.2 Пик Расколотой Чешуи  
+/way Берега Пробуждения 74.2 57.5 Постамент Поднебесной обсерватории  
+/way Берега Пробуждения 75.1 56.7 Башня Поднебесной обсерватории  
+/way Берега Пробуждения 74.8 37.3 Посольство Крылатого Приюта  
+/cway
+</pre>
+</details>
+
+<table class="grid">
+	<tbody>
+		<td style="text-align: center;"><b>Символ</b></td>
+		<td style="text-align: center;"><b>Расположение</b></td>
+		<td style="text-align: center;"><b>Скриншот (кликабельный)</b></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15991"> Разрушающаяся арка Жизни</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 57.7 55.3 Разрушающаяся арка Жизни</code><br>В арке, развернитесь на север, арка слева, перед другой, сломанной аркой</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077874.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077874.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16051"> Застава Драконьего Сердца</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 68.8 46.2 Застава Драконьего Сердца</code><br>Внутри самой высокой башни.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077904.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077904.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16669"> Анклав Морозной Вспышки</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 58.1 78.7 Анклав Морозной Вспышки</code><br>На вершине скалы в которой находится вход в Анклав Морозной Вспышки.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079528.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079528.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15990"> Обсерватория Хранительницы Жизни</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 52.6 17.0 Обсерватория Хранительницы Жизни</code><br>На вершине самой высокой башни Обсерватории. Сама Обсерватория на высокой гористой местности но там много пиков где дракон может перевести дух.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077910.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077910.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15987"> Обсидиановый бастион</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 40.9 71.9 Обсидиановый бастион</code><br>На вершине скальной породы около Бастиона, к югу от него.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077908.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077908.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16053"> Обсидиановый Трон</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 21.7 51.4 Обсидиановый Трон</code><br>Над истоком лавового водопада, протекающего через Обсидиановый Трон. В принципе легкий маршрут если начать разгон с Трона.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077912.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077912.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15989"> Разливающийся ручей</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 46.4 52.1 Разливающийся ручей</code><br>На вершине горы возле Разливающегося ручья.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077911.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077911.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15988"> Вершины Рубиновых Омутов Жизни</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 54.7 74.1 Вершины Рубиновых Омутов Жизни</code><br>На вершине горы южнее Рубиновых Омутов.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077907.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077907.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16670"> Рубиновая застава</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 48.7 86.7 Рубиновая застава</code><br>К югу от Рубиновой заставы, возле прохода на Равнины Он'ары.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079529.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079529.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16052"> Пик Расколотой Чешуи</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 73.2 20.2 Пик Расколотой Чешуи</code><br>На вершине самой высокой горы на Пике Расколотой Чешуи. Без талантов драка будет сложновато, так что отложите эту точку напоследок.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077909.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077909.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16668"> Постамент Поднебесной обсерватории</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 74.2 57.5 Постамент Поднебесной обсерватории</code><br>Слева от Постамента трансформации обсерватории.<br>Этот символ вы соберете по квесту <a href="https://www.wowhead.com/ru/quest=68798">❗Драконьи символы</a>.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079530.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079530.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15985"> Башня Поднебесной обсерватории</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 75.1 56.7 Башня Поднебесной обсерватории</code><br>На вершине самой высокой башни, которая находится за <a href="https://www.wowhead.com/ru/npc=193364/"> Литрагосой</a>.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077906.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077906.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=15986"> Посольство Крылатого Приюта</a></td>
+		<td style="text-align: center;"><code>/way Берега Пробуждения 74.8 37.3 Посольство Крылатого Приюта</code><br>Сразу после выхода из Посольства через юго-западный выход - вы увидите символ на вершине полуразрушенной башни.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077905.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077905.jpg" width="200" /> </a></td>
+	</tbody>
+</table>
+
+* * *
+
+<h3>Равнины Он'ары</h3>
+
+<p align="center">
+<a href="https://www.wowhead.com/maps?data=13645:842775300612293745701866784214472723307361579312571801864394445649615644"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-09.jpg?raw=true" width="500"></a><br>
+</p>
+
+<details><summary>Координаты TomTom...</summary>
+<pre>
+/way Равнины Он'ары 84.2 77.5 Пик драконьих источников  
+/way Равнины Он'ары 30.0 61.2 Изумрудные сады  
+/way Равнины Он'ары 29.3 74.5 Вечные курганы  
+/way Равнины Он'ары 70.1 86.6 Переправа у речной развилки  
+/way Равнины Он'ары 78.4 21.4 Топь Илистого Древа  
+/way Равнины Он'ары 47.2 72.3 Зеркало Небес  
+/way Равнины Он'ары 30.7 36.1 Аванпост Нокхуд  
+/way Равнины Он'ары 57.9 31.2 Ohn'ahra Roost  
+/way Равнины Он'ары 57.1 80.1 Ключи Он'ир  
+/way Равнины Он'ары 86.4 39.4 Рубеж Русза'тар  
+/way Равнины Он'ары 44.5 64.9 Сзар Скилит  
+/way Равнины Он'ары 61.5 64.4 Подъем Песни Ветра  
+/cway
+</pre>
+</details>
+
+<table class="grid">
+	<tbody>
+	</tr>
+		<td style="text-align: center;"><b>Символ</b></td>
+		<td style="text-align: center;"><b>Расположение</b></td>
+		<td style="text-align: center;"><b>Скриншот (кликабельный)</b></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16061"> Пик драконьих источников</a></td>
+		<td style="text-align: center;"><code>/way Равнины Он'ары 84.2 77.5 Пик драконьих источников</code><br>Между самыми верхними стоками Источников. Можно просто свалиться на него с платформы выше.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077922.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077922.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16056"> Изумрудные сады</a></td>
+		<td style="text-align: center;"><code>/way Равнины Он'ары 30.0 61.2 Изумрудные сады</code><br>Над вершиной водопада стекающего в Дозор Меритры.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077915.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077915.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16057"> Вечные курганы</a></td>
+		<td style="text-align: center;"><code>/way Равнины Он'ары 29.3 74.5 Вечные курганы</code><br>Между двумя скалами, находится очень высоко, придется попотеть.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077918.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077918.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16672"> Переправа у речной развилки</a></td>
+		<td style="text-align: center;"><code>/way Равнины Он'ары 70.1 86.6 Переправа у речной развилки</code><br>К югу от Переправы у речной развилки, между Равнинами Он'ары и Лазурным Простором.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079531.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079531.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16671"> Топь Илистого Древа</a></td>
+		<td style="text-align: center;"><code>/way Равнины Он'ары 78.4 21.4 Топь Илистого Древа</code><br>К западу от Заставы Лесной Тропы, справа от дороги между Берегами и Равнинами Он'ары.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079532.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079532.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16059"> Зеркало Небес</a></td>
+		<td style="text-align: center;"><code>/way Равнины Он'ары 47.2 72.3 Зеркало Небес</code><br>Высоко над самой высокой скалой в локации.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077920.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077920.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16055"> Аванпост Нокхуд</a></td>
+		<td style="text-align: center;"><code>/way Равнины Он'ары 30.7 36.1 Аванпост Нокхуд</code><br>На вершине самой высокой горы возле Аванпоста.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077916.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077916.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16054"> Гнездо Он'ары</a></td>
+		<td style="text-align: center;"><code>/way Равнины Он'ары 57.9 31.2 Гнездо Он'ары</code><br>На самой высокой горе возле Марукая. Несмотря на высоту, туда легко залететь, благо есть где приземлиться по дороге.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077921.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077921.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16060"> Ключи Он'ир</a></td>
+		<td style="text-align: center;"><code>/way Равнины Он'ары 57.1 80.1 Ключи Он'ир</code><br>Высоко в небе над Ключами. Не самый легкий полет без талантов.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077914.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077914.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16062"> Рубеж Русза'тар</a></td>
+		<td style="text-align: center;"><code>/way Равнины Он'ары 86.4 39.4 Рубеж Русза'тар</code><br>На вершине на горе возле Рубежа. Несмотря на расположение Рубежа на высотах, залетать туда легко.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077913.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077913.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16058"> Сзар Скилит</a></td>
+		<td style="text-align: center;"><code>/way Равнины Он'ары 44.5 64.9 Сзар Скилит</code><br>На вершине полуразрушенной горной башни. Символ не видно снаружи.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077917.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077917.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16063"> Подъем Песни Ветра</a></td>
+		<td style="text-align: center;"><code>/way Равнины Он'ары 61.5 64.4 Подъем Песни Ветра</code><br>Высоко в небе над местным холмом, немного ебливо взлетать там из-за отсутствия мест от которых можно оттолкнуться.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1077919.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1077919.jpg" width="200" /> </a></td>
+	</tbody>
+</table>
+
+* * *
+
+<h3>Лазурный Простор</h3>
+
+<p align="center">
+<a href="https://www.wowhead.com/ru/maps?data=13646:393630106357267316567160606700676291705462686603724394528488"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-10.jpg?raw=true" width="500"></a><br>
+</p>
+
+<details><summary>Координаты TomTom...</summary>
+<pre>
+/way Лазурный Простор 39.3 63.0 Лазурные архивы  
+/way Лазурный Простор 10.6 35.7 Лощина Бурошкуров  
+/way Лазурный Простор 26.7 31.6 Пещера Речного Клыка  
+/way Лазурный Простор 56.7 16.0 Обрушенная тропа  
+/way Лазурный Простор 60.6 70.0 Имбу  
+/way Лазурный Простор 67.6 29.1 Щит Ронина  
+/way Лазурный Простор 70.5 46.2 Затерянные руины  
+/way Лазурный Простор 68.6 60.3 Руины Карнтара  
+/way Лазурный Простор 72.4 39.4 Гряда Вактрос  
+/way Лазурный Простор 52.8 48.8 Застава Зелтрак  
+/cway
+</pre>
+</details>
+
+<table class="grid">
+	<tbody>
+	</tr>
+		<td style="text-align: center;"><b>Символ</b></td>
+		<td style="text-align: center;"><b>Расположение</b></td>
+		<td style="text-align: center;"><b>Скриншот (кликабельный)</b></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16065"> Лазурные архивы</a></td>
+		<td style="text-align: center;"><code>/way Лазурный Простор 39.3 63.0 Лазурные архивы</code><br>Расположен на самом верхне кольце Лазурных архивов.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079310.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079310.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16068"> Лощина Бурошкуров</a></td>
+		<td style="text-align: center;"><code>/way Лазурный Простор 10.6 35.7 Лощина Бурошкуров</code><br>В западной части Лощины, высоко в небе, за ближайшим к океану холмом.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078289.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078289.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16064"> Кобальтовая ассамблея</a></td>
+		<td style="text-align: center;"><code>/way Лазурный Простор 45.8 26.0 Кобальтовая ассамблея</code><br>На вершине самой высокой башни  ассамблеи.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078290.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078290.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16069"> Пещера Речного Клыка</a></td>
+		<td style="text-align: center;"><code>/way Лазурный Простор 26.7 31.6 Пещера Речного Клыка</code><br>На вершине сломленного дерева.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079305.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079305.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16673"> Обрушенная тропа</a></td>
+		<td style="text-align: center;"><code>/way Лазурный Простор 56.7 16.0 Обрушенная тропа</code><br>Над мостом между Лазурным Простором и Тальдразусом.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079533.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079533.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16070"> Имбу</a></td>
+		<td style="text-align: center;"><code>/way Лазурный Простор 60.6 70.0 Имбу</code><br>Над порогами водопада, льющегося в Имбу.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078292.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078292.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16072"> Щит Ронина</a></td>
+		<td style="text-align: center;"><code>/way Лазурный Простор 67.6 29.1 Щит Ронина</code><br>На верхнем этаже крепости.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078293.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078293.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16067"> Затерянные руины</a></td>
+		<td style="text-align: center;"><code>/way Лазурный Простор 70.5 46.2 Затерянные руины</code><br>Внутри верхней части башни над руинами.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078294.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078294.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16066"> Руины Карнтара</a></td>
+		<td style="text-align: center;"><code>/way Лазурный Простор 68.6 60.3 Руины Карнтара</code><br>На вершине самой высокой полуразрушенной башни.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078295.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078295.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16073"> Гряда Вактрос</a></td>
+		<td style="text-align: center;"><code>/way Лазурный Простор 74.2 39.4 Гряда Вактрос</code><br>Над заледеневшей рекой, в сторону Гряды</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079309.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079309.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16071"> Застава Зелтрак</a></td>
+		<td style="text-align: center;"><code>/way Лазурный Простор 52.8 48.8 Застава Зелтрак</code><br>На вершине дерева.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078297.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078297.jpg" width="200" /> </a></td>
+	</tbody>
+</table>
+
+* * *
+
+<h3>Тальдразус</h3>
+
+<p align="center">
+<a href="https://www.wowhead.com/ru/maps?data=13647:624404498402527574556721355855460730660823729692615566587381724517670117"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-11.jpg?raw=true" width="500"></a><br>
+</p>
+
+<details><summary>Координаты TomTom...</summary>
+<pre>
+/way Тальдразус 62.4 40.4 Академия Алгет'ар  
+/way Тальдразус 49.8 40.2 Алгет'ера  
+/way Тальдразус 52.7 57.4 Геликирский дозор  
+/way Тальдразус 55.6 72.1 Перевал Времени  
+/way Тальдразус 35.5 85.5 Ворота Южной крепости  
+/way Тальдразус 46.0 73.0 Пик Грозового Покрова  
+/way Тальдразус 66.0 82.3 Временной Перекресток  
+/way Тальдразус 72.9 69.2 Пик Тальдразуса  
+/way Тальдразус 61.5 56.6 Тирхолд  
+/way Вальдраккен 58.7 38.1 Вальдраккен  
+/way Тальдразус 72.4 51.7 Хранилище Воплощений  
+/way Тальдразус 67.0 11.7 Тайный склеп
+/cway
+</pre>
+</details>
+
+<table class="grid">
+	<tbody>
+	</tr>
+		<td style="text-align: center;"><b>Символ</b></td>
+		<td style="text-align: center;"><b>Расположение</b></td>
+		<td style="text-align: center;"><b>Скриншот (кликабельный)</b></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16104"> Академия Алгет'ар</a></td>
+		<td style="text-align: center;"><code>/way Тальдразус 62.4 40.4 Академия Алгет'ар</code><br>В самой высокой башне Академии, под потолком.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078298.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078298.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16102"> Алгет'ера</a></td>
+		<td style="text-align: center;"><code>/way Тальдразус 49.8 40.2 Алгет'ера</code><br>Над самой высокой башней.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078299.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078299.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16666"> Геликирский дозор</a></td>
+		<td style="text-align: center;"><code>/way Тальдразус 52.7 67.4 Геликирский дозор</code><br>Над мостом.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079534.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079534.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16667"> Перевал Времени</a></td>
+		<td style="text-align: center;"><code>/way Тальдразус 55.6 72.1 Перевал Времени</code><br>К юго-западу от Перевала, возле входа во Временной Перекресток.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1079535.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1079535.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16100"> Ворота Южной крепости</a></td>
+		<td style="text-align: center;"><code>/way Тальдразус 35.5 85.5 Ворота Южной крепости</code><br>Внутри второй по высоте башни. Рядом летают <a href="https://www.wowhead.com/ru/npc=194543"> Изначальные магмарожденные драконы</a> и могут сбить с маунта, так что запаситесь планерами.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078300.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078300.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16099"> Пик Грозового Покрова</a></td>
+		<td style="text-align: center;"><code>/way Тальдразус 46.0 73.9 Пик Грозового Покрова</code><br>Собственно на вершине Пика. Туда очень нудно залетать, придется несколько раз приземляться для передышек, так что отложите эту точку напоследок.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078302.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078302.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16098"> Временной Перекресток</a></td>
+		<td style="text-align: center;"><code>/way Тальдразус 66.0 82.3 Временной Перекресток</code><br>Внутри башни слева от Временного Перекрестка.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078303.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078303.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16107"> Пик Тальдразуса</a></td>
+		<td style="text-align: center;"><code>/way Тальдразус 72.9 69.2 Пик Тальдразуса</code><br>На вершине самой высокой горы на всех островах.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078304.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078304.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16103"> Тирхолд</a></td>
+		<td style="text-align: center;"><code>/way Тальдразус 61.5 56.6 Тирхолд</code><br>На каменном выступе слева от последнего этажа Тирхолда.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078305.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078305.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16101"> Вальдраккен</a></td>
+		<td style="text-align: center;"><code>/way Вальдраккен 58.7 38.1 Вальдраккен</code><br>Над верхним этажом Престола Аспектов, если вы выше 66го уровня то можете попасть на верхний этаж через телепорт.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078306.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078306.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16106"> Хранилище Воплощений</a></td>
+		<td style="text-align: center;"><code>/way Тальдразус 72.4 51.7 Хранилище Воплощений</code><br>Слева от входа в рейд, прямо над лавовым озером.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078307.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078307.jpg" width="200" /> </a></td>
+	</tr>
+		<td style="text-align: center;"><a href="https://www.wowhead.com/ru/achievement=16105"> Тайный склеп</a></td>
+		<td style="text-align: center;"><code>/way Тальдразус 67.0 11.7 Тайный склеп</code><br>Внутри самой высокой башни.</td>
+		<td style="text-align: center;"><a href="https://wow.zamimg.com/uploads/screenshots/normal/1078312.jpg"><img src="https://wow.zamimg.com/uploads/screenshots/normal/1078312.jpg" width="200" /> </a></td>
+	</tbody>
+</table>
+
+<h2>А как бы проверить какие символы я уже полутал?</h2>
+И тут вам понадобится <a href="https://github.com/MagicalCow/TrinkIT-News/tree/main/Guides/Guide-Mods.html#Paste">аддон Paste</a>.
+
+<details><summary>Вставляем эту простынку и жмем Вставить...</summary>
+<pre>
+/run local a,b,c,d=GetAchievementInfo(15991); if not (d) then for _,v in next,({{57.7,55.3}})do TomTom:AddWaypoint(2022,v[1]/100,v[2]/100,{title="Разрушающаяся арка Жизни"})end;end
+/run local a,b,c,d=GetAchievementInfo(16051); if not (d) then for _,v in next,({{68.8,46.2}})do TomTom:AddWaypoint(2022,v[1]/100,v[2]/100,{title="Застава Драконьего Сердца"})end;end
+/run local a,b,c,d=GetAchievementInfo(16669); if not (d) then for _,v in next,({{58.1,78.7}})do TomTom:AddWaypoint(2022,v[1]/100,v[2]/100,{title="Анклав Морозной Вспышки"})end;end
+/run local a,b,c,d=GetAchievementInfo(15990); if not (d) then for _,v in next,({{52.6,17.0}})do TomTom:AddWaypoint(2022,v[1]/100,v[2]/100,{title="Обсерватория Хранительницы Жизни"})end;end
+/run local a,b,c,d=GetAchievementInfo(15987); if not (d) then for _,v in next,({{40.9,71.9}})do TomTom:AddWaypoint(2022,v[1]/100,v[2]/100,{title="Обсидиановый бастион"})end;end
+/run local a,b,c,d=GetAchievementInfo(16053); if not (d) then for _,v in next,({{21.7,51.4}})do TomTom:AddWaypoint(2022,v[1]/100,v[2]/100,{title="Обсидиановый Трон"})end;end
+/run local a,b,c,d=GetAchievementInfo(15989); if not (d) then for _,v in next,({{46.4,52.1}})do TomTom:AddWaypoint(2022,v[1]/100,v[2]/100,{title="Разливающийся ручей"})end;end
+/run local a,b,c,d=GetAchievementInfo(15988); if not (d) then for _,v in next,({{54.7,74.1}})do TomTom:AddWaypoint(2022,v[1]/100,v[2]/100,{title="Вершины Рубиновых Омутов Жизни"})end;end
+/run local a,b,c,d=GetAchievementInfo(16670); if not (d) then for _,v in next,({{48.7,86.7}})do TomTom:AddWaypoint(2022,v[1]/100,v[2]/100,{title="Рубиновая застава"})end;end
+/run local a,b,c,d=GetAchievementInfo(16052); if not (d) then for _,v in next,({{73.2,20.2}})do TomTom:AddWaypoint(2022,v[1]/100,v[2]/100,{title="Пик Расколотой Чешуи"})end;end
+/run local a,b,c,d=GetAchievementInfo(16668); if not (d) then for _,v in next,({{74.2,57.5}})do TomTom:AddWaypoint(2022,v[1]/100,v[2]/100,{title="Постамент Поднебесной обсерватории"})end;end
+/run local a,b,c,d=GetAchievementInfo(15985); if not (d) then for _,v in next,({{75.1,56.7}})do TomTom:AddWaypoint(2022,v[1]/100,v[2]/100,{title="Башня Поднебесной обсерватории"})end;end
+/run local a,b,c,d=GetAchievementInfo(15986); if not (d) then for _,v in next,({{74.8,37.3}})do TomTom:AddWaypoint(2022,v[1]/100,v[2]/100,{title="Посольство Крылатого Приюта"})end;end
+/run local a,b,c,d=GetAchievementInfo(16061); if not (d) then for _,v in next,({{84.2,77.5}})do TomTom:AddWaypoint(2023,v[1]/100,v[2]/100,{title="Пик драконьих источников"})end;end
+/run local a,b,c,d=GetAchievementInfo(16056); if not (d) then for _,v in next,({{30.0,61.2}})do TomTom:AddWaypoint(2023,v[1]/100,v[2]/100,{title="Изумрудные сады"})end;end
+/run local a,b,c,d=GetAchievementInfo(16057); if not (d) then for _,v in next,({{29.3,74.5}})do TomTom:AddWaypoint(2023,v[1]/100,v[2]/100,{title="Вечные курганы"})end;end
+/run local a,b,c,d=GetAchievementInfo(16672); if not (d) then for _,v in next,({{70.1,86.6}})do TomTom:AddWaypoint(2023,v[1]/100,v[2]/100,{title="Переправа у речной развилки"})end;end
+/run local a,b,c,d=GetAchievementInfo(16671); if not (d) then for _,v in next,({{78.4,21.4}})do TomTom:AddWaypoint(2023,v[1]/100,v[2]/100,{title="Топь Илистого Древа"})end;end
+/run local a,b,c,d=GetAchievementInfo(16059); if not (d) then for _,v in next,({{47.2,72.3}})do TomTom:AddWaypoint(2023,v[1]/100,v[2]/100,{title="Зеркало Небес"})end;end
+/run local a,b,c,d=GetAchievementInfo(16055); if not (d) then for _,v in next,({{30.7,36.1}})do TomTom:AddWaypoint(2023,v[1]/100,v[2]/100,{title="Аванпост Нокхуд"})end;end
+/run local a,b,c,d=GetAchievementInfo(16054); if not (d) then for _,v in next,({{57.9,31.2}})do TomTom:AddWaypoint(2023,v[1]/100,v[2]/100,{title="Гнездо Он'ары"})end;end
+/run local a,b,c,d=GetAchievementInfo(16060); if not (d) then for _,v in next,({{57.1,80.1}})do TomTom:AddWaypoint(2023,v[1]/100,v[2]/100,{title="Ключи Он'ир"})end;end
+/run local a,b,c,d=GetAchievementInfo(16062); if not (d) then for _,v in next,({{86.4,39.4}})do TomTom:AddWaypoint(2023,v[1]/100,v[2]/100,{title="Рубеж Русза'тар"})end;end
+/run local a,b,c,d=GetAchievementInfo(16058); if not (d) then for _,v in next,({{44.5,64.9}})do TomTom:AddWaypoint(2023,v[1]/100,v[2]/100,{title="Сзар Скилит"})end;end
+/run local a,b,c,d=GetAchievementInfo(16063); if not (d) then for _,v in next,({{61.5,64.4}})do TomTom:AddWaypoint(2023,v[1]/100,v[2]/100,{title="Подъем Песни Ветра"})end;end
+/run local a,b,c,d=GetAchievementInfo(16065); if not (d) then for _,v in next,({{39.3,63.0}})do TomTom:AddWaypoint(2024,v[1]/100,v[2]/100,{title="Лазурные архивы"})end;end
+/run local a,b,c,d=GetAchievementInfo(16068); if not (d) then for _,v in next,({{10.6,35.7}})do TomTom:AddWaypoint(2024,v[1]/100,v[2]/100,{title="Лощина Бурошкуров"})end;end
+/run local a,b,c,d=GetAchievementInfo(16064); if not (d) then for _,v in next,({{45.8,26.0}})do TomTom:AddWaypoint(2024,v[1]/100,v[2]/100,{title="Кобальтовая ассамблея"})end;end
+/run local a,b,c,d=GetAchievementInfo(16069); if not (d) then for _,v in next,({{26.7,31.6}})do TomTom:AddWaypoint(2024,v[1]/100,v[2]/100,{title="Пещера Речного Клыка"})end;end
+/run local a,b,c,d=GetAchievementInfo(16673); if not (d) then for _,v in next,({{56.7,16.0}})do TomTom:AddWaypoint(2024,v[1]/100,v[2]/100,{title="Обрушенная тропа"})end;end
+/run local a,b,c,d=GetAchievementInfo(16070); if not (d) then for _,v in next,({{60.6,70.0}})do TomTom:AddWaypoint(2024,v[1]/100,v[2]/100,{title="Имбу"})end;end
+/run local a,b,c,d=GetAchievementInfo(16072); if not (d) then for _,v in next,({{67.6,29.1}})do TomTom:AddWaypoint(2024,v[1]/100,v[2]/100,{title="Щит Ронина"})end;end
+/run local a,b,c,d=GetAchievementInfo(16067); if not (d) then for _,v in next,({{70.5,46.2}})do TomTom:AddWaypoint(2024,v[1]/100,v[2]/100,{title="Затерянные руины"})end;end
+/run local a,b,c,d=GetAchievementInfo(16066); if not (d) then for _,v in next,({{68.6,60.3}})do TomTom:AddWaypoint(2024,v[1]/100,v[2]/100,{title="Руины Карнтара"})end;end
+/run local a,b,c,d=GetAchievementInfo(16073); if not (d) then for _,v in next,({{74.2,39.4}})do TomTom:AddWaypoint(2024,v[1]/100,v[2]/100,{title="Гряда Вактрос"})end;end
+/run local a,b,c,d=GetAchievementInfo(16071); if not (d) then for _,v in next,({{52.8,48.8}})do TomTom:AddWaypoint(2024,v[1]/100,v[2]/100,{title="Застава Зелтрак"})end;end
+/run local a,b,c,d=GetAchievementInfo(16104); if not (d) then for _,v in next,({{62.4,40.4}})do TomTom:AddWaypoint(2025,v[1]/100,v[2]/100,{title="Академия Алгет'ар"})end;end
+/run local a,b,c,d=GetAchievementInfo(16102); if not (d) then for _,v in next,({{49.8,40.2}})do TomTom:AddWaypoint(2025,v[1]/100,v[2]/100,{title="Алгет'ера"})end;end
+/run local a,b,c,d=GetAchievementInfo(16666); if not (d) then for _,v in next,({{52.7,67.4}})do TomTom:AddWaypoint(2025,v[1]/100,v[2]/100,{title="Геликирский дозор"})end;end
+/run local a,b,c,d=GetAchievementInfo(16667); if not (d) then for _,v in next,({{55.6,72.1}})do TomTom:AddWaypoint(2025,v[1]/100,v[2]/100,{title="Перевал Времени"})end;end
+/run local a,b,c,d=GetAchievementInfo(16100); if not (d) then for _,v in next,({{35.5,85.5}})do TomTom:AddWaypoint(2025,v[1]/100,v[2]/100,{title="Ворота Южной крепости"})end;end
+/run local a,b,c,d=GetAchievementInfo(16099); if not (d) then for _,v in next,({{46.0,73.9}})do TomTom:AddWaypoint(2025,v[1]/100,v[2]/100,{title="Пик Грозового Покрова"})end;end
+/run local a,b,c,d=GetAchievementInfo(16098); if not (d) then for _,v in next,({{66.0,82.3}})do TomTom:AddWaypoint(2025,v[1]/100,v[2]/100,{title="Временной Перекресток"})end;end
+/run local a,b,c,d=GetAchievementInfo(16107); if not (d) then for _,v in next,({{72.9,69.2}})do TomTom:AddWaypoint(2025,v[1]/100,v[2]/100,{title="Пик Тальдразуса"})end;end
+/run local a,b,c,d=GetAchievementInfo(16103); if not (d) then for _,v in next,({{61.5,56.6}})do TomTom:AddWaypoint(2025,v[1]/100,v[2]/100,{title="Тирхолд"})end;end
+/run local a,b,c,d=GetAchievementInfo(16101); if not (d) then for _,v in next,({{58.7,38.1}})do TomTom:AddWaypoint(2112,v[1]/100,v[2]/100,{title="Вальдраккен"})end;end
+/run local a,b,c,d=GetAchievementInfo(16106); if not (d) then for _,v in next,({{72.4,51.7}})do TomTom:AddWaypoint(2025,v[1]/100,v[2]/100,{title="Хранилище Воплощений"})end;end
+/run local a,b,c,d=GetAchievementInfo(16105); if not (d) then for _,v in next,({{67.0,11.7}})do TomTom:AddWaypoint(2025,v[1]/100,v[2]/100,{title="Тайный склеп"})end;end
+</pre>
+</details>
+
 ## Я аудиовизуал, не хочу читать
-Тогда представляю тебе небольшой видеогайд от Бусени:
-https://youtu.be/tkipB58bxrM
+Тогда представляю тебе небольшой видеогайд по механике полетов от Бусени:
 </p>
 <p align="center">
 <a href="https://youtu.be/hCrUPNMxJn8"><img src="https://i.ytimg.com/vi_webp/hCrUPNMxJn8/maxresdefault.webp" width="500"></a><br>
+</p>
+
+А вот тут можно пролететь по видео все символы:
+</p>
+<p align="center">
+<a href="https://youtu.be/tkipB58bxrM"><img src="https://i.ytimg.com/vi_webp/hCrUPNMxJn8/maxresdefault.webp" width="500"></a><br>
 </p>
