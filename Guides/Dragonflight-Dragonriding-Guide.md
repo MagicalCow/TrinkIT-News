@@ -325,7 +325,7 @@
 <h3>Берега пробуждения</h3>
 
 <p align="center">
-<a href="https://www.wowhead.com/ru/maps?data=13644:577553688462581787526170409719217514464521547741487867732202742575751567748373"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-08.jpg?raw=true" width="500"></a><br>
+<a href="https://www.wowhead.com/ru/maps?data=13644:577553688462581787526170409719217514464521547741487867732202742575751567748373"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-08.jpg?raw=true" width="500"></a><br>
 </p>
 
 <details><summary>Координаты TomTom...</summary>
@@ -412,7 +412,7 @@
 <h3>Равнины Он'ары</h3>
 
 <p align="center">
-<a href="https://www.wowhead.com/maps?data=13645:842775300612293745701866784214472723307361579312571801864394445649615644"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-09.jpg?raw=true" width="500"></a><br>
+<a href="https://www.wowhead.com/maps?data=13645:842775300612293745701866784214472723307361579312571801864394445649615644"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-09.jpg?raw=true" width="500"></a><br>
 </p>
 
 <details><summary>Координаты TomTom...</summary>
@@ -495,7 +495,7 @@
 <h3>Лазурный Простор</h3>
 
 <p align="center">
-<a href="https://www.wowhead.com/ru/maps?data=13646:393630106357267316567160606700676291705462686603724394528488"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-10.jpg?raw=true" width="500"></a><br>
+<a href="https://www.wowhead.com/ru/maps?data=13646:393630106357267316567160606700676291705462686603724394528488"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-10.jpg?raw=true" width="500"></a><br>
 </p>
 
 <details><summary>Координаты TomTom...</summary>
@@ -572,7 +572,7 @@
 <h3>Тальдразус</h3>
 
 <p align="center">
-<a href="https://www.wowhead.com/ru/maps?data=13647:624404498402527574556721355855460730660823729692615566587381724517670117"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Sources/Assets/Guides/Dragonflight-Dragonriding-Guide-11.jpg?raw=true" width="500"></a><br>
+<a href="https://www.wowhead.com/ru/maps?data=13647:624404498402527574556721355855460730660823729692615566587381724517670117"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guides/Dragonflight-Dragonriding-Guide-11.jpg?raw=true" width="500"></a><br>
 </p>
 
 <details><summary>Координаты TomTom...</summary>
