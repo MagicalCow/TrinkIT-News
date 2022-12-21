@@ -174,7 +174,6 @@ This is one of the two races located by the Ruby Lifeshrine. This race loops aro
 				<p align="center" style="color:gray;font-size:x-small;"><i>Круг у Рубинового святилища Жизни</i></p>
 			</td>
 			<td style="text-align: center;>
-				
 				<a href="https://nether.wowhead.com/video-stream/244025-ruby-lifeshrine-loop-advanced?dataEnv=1&locale=0" target="_blank"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guide-Dragonriding-Guide/244025-ruby-lifeshrine-loop-advanced.jpg?raw=true" width="90%" align="center"></a><br>
 				<p align="center" style="color:gray;font-size:x-small;"><i>Продвинутый Круг у Рубинового святилища Жизни</i></p>
 			</td>
