@@ -170,10 +170,12 @@ This is one of the two races located by the Ruby Lifeshrine. This race loops aro
 		</tr>
 		<tr>
 			<td style="text-align: center;">
-				<a href="https://nether.wowhead.com/video-stream/244024-ruby-lifeshrine-loop-basic?dataEnv=1&locale=0" width="40%" target="_blank"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guide-Dragonriding-Guide/244024-ruby-lifeshrine-loop-basic.jpg?raw=true"><i>Круг у Рубинового святилища Жизни</i></a>
+				<a href="https://nether.wowhead.com/video-stream/244024-ruby-lifeshrine-loop-basic?dataEnv=1&locale=0" target="_blank"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guide-Dragonriding-Guide/244024-ruby-lifeshrine-loop-basic.jpg?raw=true" width="40%" ></a><br>
+				<p style="color:gray;font-size:x-small;"><i>Круг у Рубинового святилища Жизни</i></p>
 			</td>
 			<td style="text-align: center;>
-				<a href="https://nether.wowhead.com/video-stream/244025-ruby-lifeshrine-loop-advanced?dataEnv=1&locale=0" width="40%" target="_blank"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guide-Dragonriding-Guide/244025-ruby-lifeshrine-loop-advanced.jpg?raw=true"><i>Продвинутый Круг у Рубинового святилища Жизни</i></a>
+				<a href="https://nether.wowhead.com/video-stream/244025-ruby-lifeshrine-loop-advanced?dataEnv=1&locale=0" target="_blank"><img src="https://github.com/MagicalCow/TrinkIT-News/blob/main/Assets/Guide-Dragonriding-Guide/244025-ruby-lifeshrine-loop-advanced.jpg?raw=true" width="40%" ></a><br>
+				<p style="color:gray;font-size:x-small;"><i>Продвинутый Круг у Рубинового святилища Жизни</i></p>
 			</td>
 		</tr>
 	</tbody>
