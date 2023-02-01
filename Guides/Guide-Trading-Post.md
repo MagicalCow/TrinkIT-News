@@ -57,12 +57,12 @@
 				<td>900 <a href="https://ru.wowhead.com/currency=2032"><img src="https://wow.zamimg.com/images/wow/icons/large/tradingpostcurrency.jpg" align="bottom" width="13" height="13"/></a></td>
 			</tr>
 			<tr>
-				<td style="text-align: center;"><a href="https://wow.zamimg.com/modelviewer/ptr/webthumbs/npc-row/207/105423.jpg"><img src="https://wow.zamimg.com/modelviewer/ptr/webthumbs/npc-row/207/105423.jpg" width="400"></a><br><a href=""><img src="https://wow.zamimg.com/favicon.ico" width="13" height="13"/> посмотреть модельку</a></td>
-				<td><a href="https://www.wowhead.com/ru/item=189898"><img src="https://wow.zamimg.com/images/wow/icons/large/4212793.jpg" width="11" height="11" valign="bottom" />Ярость Повелителя Огня</a></td>
+				<td style="text-align: center;"><a href="https://wow.zamimg.com/modelviewer/ptr/webthumbs/item/135/194695.png"><img src="https://wow.zamimg.com/modelviewer/ptr/webthumbs/item/135/194695.png" width="400"></a><br><a href=""><img src="https://wow.zamimg.com/favicon.ico" width="13" height="13"/> посмотреть модельку</a></td>
+				<td><a href="https://www.wowhead.com/ru/item=189898#modelviewer"><img src="https://wow.zamimg.com/images/wow/icons/large/4212793.jpg" width="11" height="11" valign="bottom" />Ярость Повелителя Огня</a></td>
 				<td>750 <a href="https://ru.wowhead.com/currency=2032"><img src="https://wow.zamimg.com/images/wow/icons/large/tradingpostcurrency.jpg" align="bottom" width="13" height="13"/></a></td>
 			</tr>
 			<tr>
-				<td style="text-align: center;"><a href=""><img src="" width="400"></a><br><a href="https://www.wowhead.com/ru/npc=185606/%D0%B3%D0%B0%D1%80%D1%80%D0%BB%D0%BE%D0%BA#modelviewer"><img src="https://wow.zamimg.com/favicon.ico" width="13" height="13"/> посмотреть модельку</a></td>
+				<td style="text-align: center;"><a href="https://wow.zamimg.com/modelviewer/ptr/webthumbs/npc-row/207/105423.jpg"><img src="https://wow.zamimg.com/modelviewer/ptr/webthumbs/npc-row/207/105423.jpg" width="400"></a><br><a href="https://www.wowhead.com/ru/npc=185606#modelviewer"><img src="https://wow.zamimg.com/favicon.ico" width="13" height="13"/> посмотреть модельку</a></td>
 				<td><a href="https://www.wowhead.com/ru/npc=185606/">Пет Гаррлок</a></td>
 				<td>750 <a href="https://ru.wowhead.com/currency=2032"><img src="https://wow.zamimg.com/images/wow/icons/large/tradingpostcurrency.jpg" align="bottom" width="13" height="13"/></a></td>
 			</tr>
