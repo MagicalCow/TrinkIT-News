@@ -3,11 +3,10 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="initial-scale=1, user-scalable=no">
-		<title>Обзор Торговой Лавки</title>
 		<meta name="description" content="Торговая лавка - новый вендор с трансмогом и косметикой">
 		<meta property="og:title" content="Обзор Торговой Лавки">
 		<meta property="og:type" content="article">
-		<meta property="og:image" content="https://wow.zamimg.com/images/content/tall-headers/retail/categories/trading-post.jpg">
+		<meta property="og:image" content="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Assets/Guides/Guide-Trading-Post-01.jpg">
 		<meta property="og:site_name" content="Trink it">
 		<meta property="og:url" content="https://github.com/MagicalCow/TrinkIT-News/blob/main/Guides/Guide-Trading-Post.md">
 		<meta property="og:description" content="Торговая лавка - новый вендор с трансмогом и косметикой.">
@@ -19,7 +18,7 @@
 	<body>
 		<p align="center">
 		<p align="center">
-		<a href="https://www.youtube.com/watch?v=tWhHAM7-OPM"><img src="https://i.ytimg.com/vi/tWhHAM7-OPM/maxresdefault.jpg" width="80%" border="2" /></a>
+		<a href="https://www.youtube.com/watch?v=tWhHAM7-OPM"><img src="https://raw.githubusercontent.com/MagicalCow/TrinkIT-News/main/Assets/Guides/Guide-Trading-Post-01.jpg" width="80%" border="2" /></a>
 		</p>
 		<h1>Обзор Торговой Лавки</h1>
 		Татарговая лавка - новый вендор с трансмогом и косметикой объявленный в патче 10.0.5, начинает торговлю.
