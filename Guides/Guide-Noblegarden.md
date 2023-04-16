@@ -347,6 +347,6 @@ _К нам пришел [Сад Чудес](https://ru.wowhead.com/event=181) �
 /run local a,n,r,c,x=2422 for i=1,GetAchievementNumCriteria(a)do n,r,_,c=UnitName("target"),GetAchievementCriteriaInfo(a,i)if n and not c and UnitRace("target")==r then print(n,"is"..(UnitSex("target")~=3 and " NOT"or"").." female!")end end
 ```
 
----
-[Источник и арт](https://eu.news.blizzard.com/en-us/world-of-warcraft/21636890/noblegarden-springs-to-life-this-week)  
+<hr>
+<a href="https://www.deviantart.com/silsol/art/WoW-Noblegarden-529024741">Арт</a> от <a href="https://www.deviantart.com/silsol/"><img src="https://www.deviantart.com/favicon.ico" width=13 height=13/>Silsol</a><br>
 #гайд #праздники #садчудес
